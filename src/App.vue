@@ -1,27 +1,14 @@
 <template>
-  <div id="app">
-    <HelloWorld/>
-  </div>
+  <magic-list/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld';
+import MagicList from '@/components/MagicList';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
+    MagicList,
   },
 };
 </script>
-
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
