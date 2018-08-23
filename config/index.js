@@ -50,7 +50,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/dnd-magics',
+    assetsPublicPath: '/dnd-spells',
 
     /**
      * Source Maps
