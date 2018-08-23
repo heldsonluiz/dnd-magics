@@ -842,7 +842,10 @@
 		"duration": "até ser dissipada",
 		"material": "pó de rubi no valor de 50 po, consumido pela magia",
 		"description": "Uma chama, que produz iluminação equivalente a uma tocha, surge de um objeto que você tocar. O efeito é parecido com o de uma chama normal, mas ele não produz calor e não consome oxigênio. Uma chama continua pode ser coberta ou escondida, mas não sufocada ou extinta.",
-		"classes": []
+		"classes": [
+			"mago",
+			"clérigo"
+		]
 	},
 	{
 		"level": "0",

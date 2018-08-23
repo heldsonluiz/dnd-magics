@@ -1,24 +1,45 @@
 <template>
   <div class="MagicList">
-    <label for="fName">Name: </label>
-    <input id="fName" type="text" v-model="search" placeholder="Search title.."/>
+    <v-container grid-list-lg>
+    <v-layout row wrap class="mb-3">
+      <v-flex xs12 sm6 md3 class="my-0">
+        <v-text-field v-model="search" label="Magia" clearable>
+        </v-text-field>
+      </v-flex>
+      <v-flex xs6 md3 class="my-0">
+        <v-combobox label="Nível" v-model="filter.level" :items="levels" clearable>
+        </v-combobox>
+      </v-flex>
+      <v-flex xs6 md3 class="my-0">
+        <v-combobox label="Classe" v-model="filter.class" :items="classes" clearable>
+          <template slot="selection" slot-scope="data">
+            {{ data.item }}
+          </template>
+        </v-combobox>
+      </v-flex>
+      <v-flex xs12 sm6 md3 class="my-0">
+        <v-combobox label="Escola" v-model="filter.school" :items="schools" clearable>
+          <template slot="selection" slot-scope="data">
+            {{ data.item }}
+          </template>
+        </v-combobox>
+      </v-flex>
+    </v-layout>
+    </v-container>
+    <v-container grid-list-lg>
+      <v-layout row wrap>
+        <magic-item v-for="(item, index) in filteredList" :key=index
+        @clicked="filterClass"
+        :magic="item"></magic-item>
+      </v-layout>
+    </v-container>
 
-    <label for="fLevel">Level: </label>
-    <select id="fLevel" v-model="filter.level">
-      <option v-for="(level, id) in levels" :key=id>{{level}}</option>
-    </select>
 
-    <label for="fSchool">School: </label>
-    <select id="fSchool" v-model="filter.school">
-      <option v-for="(school, id) in schools" :key=id>{{school}}</option>
-    </select>
+    <v-snackbar v-model="snackbar" top color="info"
+      :timeout="2000" multi-line vertical>
+      Magias de {{ this.upper(this.filter.class) }}
+    </v-snackbar>
 
-    <label for="fClass">Class: </label>
-    <select id="fClass" v-model="filter.class">
-      <option v-for="(pJclass, id) in classes" :key=id>{{pJclass}}</option>
-    </select>
-
-    <magic-item v-for="(item, index) in filteredList" :key=index :magic="item"></magic-item>
   </div>
 </template>
 
@@ -33,10 +54,12 @@ export default {
   },
   data() {
     return {
+      snackbar: false,
+      timeout: 2000,
       magics: magicList,
       search: '',
-      levels: ['', 0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
-      classes: ['', 'bardo', 'bruxo', 'clérigo', 'druida', 'feiticeiro', 'mago', 'paladino', 'patrulheiro'],
+      levels: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
+      classes: ['bardo', 'bruxo', 'clérigo', 'druida', 'feiticeiro', 'mago', 'paladino', 'patrulheiro'],
       filter: {
         level: '',
         school: '',
@@ -44,34 +67,46 @@ export default {
       },
     };
   },
+  methods: {
+    isEmpty(value) {
+      return !value || value === '';
+    },
+    filterClass(value) {
+      this.snackbar = true;
+      this.filter.class = value;
+    },
+    upper(value) {
+      return !this.isEmpty(value) ? value.charAt(0).toUpperCase() + value.slice(1) : value;
+    },
+  },
   computed: {
     filteredList() {
       let list = magicList.filter(item =>
         item.name.toLowerCase().includes(this.search.toLowerCase()),
       );
 
-      if (this.filter.class !== '') {
+      if (!this.isEmpty(this.filter.class)) {
         list = list.filter(item =>
-          item.classes.findIndex(i => i.toLowerCase() === this.filter.class.toLowerCase()) !== -1,
+          item.classes.find(i => i.toLowerCase() === this.filter.class.toLowerCase()),
         );
       }
 
-      if (this.filter.level !== '') {
+      if (!this.isEmpty(this.filter.level)) {
         list = list.filter(item =>
           item.level === this.filter.level,
         );
       }
 
-      if (this.filter.school !== '') {
+      if (!this.isEmpty(this.filter.school)) {
         list = list.filter(item =>
-          item.school === this.filter.school,
+          item.school.toLowerCase() === this.filter.school.toLowerCase(),
         );
       }
 
       return list;
     },
     schools() {
-      const schools = [''];
+      const schools = [];
       magicList.filter((item) => {
         if (schools.findIndex(s => s === item.school) === -1) {
           schools.push(item.school);
@@ -85,9 +120,6 @@ export default {
 </script>
 
 <style scoped>
-.MagicList {
-  margin: 0;
-  padding: 0;
-}
+
 </style>
 
