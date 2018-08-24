@@ -1,19 +1,34 @@
 <template>
   <v-app>
-    <v-content>
-      <magic-list/>
-    </v-content>
-    <v-footer app></v-footer>
+    <spell-filter @doFilter="doFilter"/>
+    <spell-list :filter="filter"/>
   </v-app>
 </template>
 
 <script>
-import MagicList from '@/components/MagicList';
+import SpellFilter from '@/components/SpellFilter';
+import SpellList from '@/components/SpellList';
 
 export default {
   name: 'App',
   components: {
-    MagicList,
+    SpellFilter,
+    SpellList,
+  },
+  data() {
+    return {
+      filter: {
+        name: '',
+        level: '',
+        school: '',
+        class: '',
+      },
+    };
+  },
+  methods: {
+    doFilter(filter) {
+      this.filter = filter;
+    },
   },
 };
 </script>

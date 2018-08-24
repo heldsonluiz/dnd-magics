@@ -3,14 +3,16 @@ import Vue from 'vue';
 import App from '@/App';
 import Vuetify from 'vuetify';
 
-// Helpers
-import colors from 'vuetify/es5/util/colors';
-
 Vue.use(Vuetify, {
   theme: {
-    primary: colors.orange.darken1,
-    secondary: colors.green.lighten4,
-    accent: colors.indigo.base,
+    abjuration: '#90CAF9',
+    divination: '#B0BEC5',
+    conjuration: '#FFA726',
+    enchantment: '#CE93D8',
+    evocation: '#E57373',
+    illusion: '#AB47BC',
+    necromancy: '#66BB6A',
+    transmutation: '#66BB6A',
   },
 });
 

@@ -7,7 +7,6 @@ const magics = [];
 function filterList() {
   listOfMagics.forEach((magic) => {
     let elem = magic;
-    elem.name = elem.name.toLowerCase();
 
     if (!magic.class) {
       elem = {
@@ -17,7 +16,7 @@ function filterList() {
     }
 
     listOfMagicsByClasses.forEach((element) => {
-      if (element.magics.findIndex(e => e.toLowerCase() === elem.name) !== -1) {
+      if (element.magics.findIndex(e => e.toLowerCase() === elem.name.toLowerCase()) !== -1) {
         elem.classes.push(element.class);
       }
     });
@@ -30,7 +29,7 @@ function filterList() {
 
 filterList();
 
-fs.writeFile('./static/listOfMagics.json', JSON.stringify(magics, null, '\t'), (err) => {
+fs.writeFile('listOfMagics.json', JSON.stringify(magics, null, '\t'), (err) => {
   if (err) {
     // eslint-disable-next-line
     console.error(err);
