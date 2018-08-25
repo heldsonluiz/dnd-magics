@@ -14,7 +14,6 @@ Vue.use(Vuetify, {
     necromancy: '#43A047',
     transmutation: '#F9A825',
   },
-  iconfont: 'fa4',
 });
 
 Vue.config.productionTip = false;
