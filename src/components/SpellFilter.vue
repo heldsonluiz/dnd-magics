@@ -28,9 +28,9 @@ export default {
         school: '',
         class: '',
       },
-      levels: ['all', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
-      classes: ['all', 'bárbaro', 'bardo', 'bruxo', 'clérigo', 'druida', 'feiticeiro', 'ladino', 'mago', 'paladino', 'patrulheiro'],
-      schools: ['all', 'abjuração', 'adivinhação', 'conjuração', 'encantamento', 'evocação', 'ilusão', 'necromancia', 'transmutação'],
+      levels: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
+      classes: ['bárbaro', 'bardo', 'bruxo', 'clérigo', 'druida', 'feiticeiro', 'ladino', 'mago', 'paladino', 'patrulheiro'],
+      schools: ['abjuração', 'adivinhação', 'conjuração', 'encantamento', 'evocação', 'ilusão', 'necromancia', 'transmutação'],
     };
   },
   watch: {

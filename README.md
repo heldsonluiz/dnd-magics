@@ -1,4 +1,4 @@
-# dnd-magics
+# dnd-spells
 
 > Projeto criado para listar as magias de Dungeons and Dragons
 

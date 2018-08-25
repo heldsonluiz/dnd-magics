@@ -2,10 +2,10 @@
     "level": "0",
     "name": "Amizade",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "S, M",
     "concentration": "s",
@@ -16,10 +16,10 @@
     "level": "0",
     "name": "Ataque Certeiro",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "S",
     "concentration": "s",
@@ -29,10 +29,10 @@
     "level": "0",
     "name": "Bordão Místico",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "toque",
     "components": "V, S, M",
     "duration": "1 minuto",
@@ -42,10 +42,10 @@
     "level": "0",
     "name": "Chama Sagrada",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -54,10 +54,10 @@
     "level": "0",
     "name": "Chicote de Espinhos",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -67,10 +67,10 @@
     "level": "0",
     "name": "Consertar",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -80,10 +80,10 @@
     "level": "0",
     "name": "Criar Chamas",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "duration": "10 minutos",
@@ -92,10 +92,10 @@
     "level": "0",
     "name": "Druidismo",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -104,10 +104,10 @@
     "level": "0",
     "name": "Espirro Ácido",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -116,10 +116,10 @@
     "level": "0",
     "name": "Estabilizar",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "duration": "instantânea",
@@ -128,10 +128,10 @@
     "level": "0",
     "name": "Globos de Luz",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -142,10 +142,10 @@
     "level": "0",
     "name": "Ilusão Menor",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, M",
     "duration": "1 minuto",
@@ -155,10 +155,10 @@
     "level": "0",
     "name": "Luz",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, M",
     "duration": "1 hora",
@@ -168,10 +168,10 @@
     "level": "0",
     "name": "Mãos Mágicas",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S",
     "duration": "1 minuto",
@@ -180,10 +180,10 @@
     "level": "0",
     "name": "Mensagem",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "duration": "1 rodada",
@@ -193,10 +193,10 @@
     "level": "0",
     "name": "Orientação",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "concentration": "s",
@@ -206,10 +206,10 @@
     "level": "0",
     "name": "Prestidigitação",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "3 metros",
     "components": "V, S",
     "duration": "até 1 hora",
@@ -218,10 +218,10 @@
     "level": "0",
     "name": "Proteção contra Lâminas",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "duration": "1 rodada",
@@ -230,10 +230,10 @@
     "level": "0",
     "name": "Raio de Fogo",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -242,10 +242,10 @@
     "level": "0",
     "name": "Raio de Gelo",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -254,10 +254,10 @@
     "level": "0",
     "name": "Rajada de Veneno",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "3 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -266,10 +266,10 @@
     "level": "0",
     "name": "Rajada Mística",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -278,10 +278,10 @@
     "level": "0",
     "name": "Resistência",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "concentration": "s",
@@ -292,10 +292,10 @@
     "level": "0",
     "name": "Taumaturgia",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V",
     "duration": "até 1 minuto",
@@ -304,10 +304,10 @@
     "level": "0",
     "name": "Toque Arrepiante",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "duration": "1 rodada",
@@ -316,10 +316,10 @@
     "level": "0",
     "name": "Toque Chocante",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "duration": "instantânea",
@@ -328,10 +328,10 @@
     "level": "0",
     "name": "Zombaria Viciosa",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V",
     "duration": "instantânea",
@@ -341,10 +341,10 @@
     "name": "Alarme",
     "ritual": "s",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "8 horas",
@@ -354,10 +354,10 @@
     "level": "1",
     "name": "Amizade Animal",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "24 horas",
@@ -367,10 +367,10 @@
     "level": "1",
     "name": "Área Escorregadia",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "duration": "1 minuto",
@@ -380,10 +380,10 @@
     "level": "1",
     "name": "Armadura Arcana",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "8 horas",
@@ -393,10 +393,10 @@
     "level": "1",
     "name": "Armadura de Agathys",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -406,10 +406,10 @@
     "level": "1",
     "name": "Auxílio Divino",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V, S",
     "concentration": "s",
@@ -419,10 +419,10 @@
     "level": "1",
     "name": "Bênção",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -433,10 +433,10 @@
     "level": "1",
     "name": "Bom Fruto",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -446,10 +446,10 @@
     "level": "1",
     "name": "Braços de Hadar",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "duration": "instantânea",
@@ -458,10 +458,10 @@
     "level": "1",
     "name": "Bruxaria",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -472,10 +472,10 @@
     "level": "1",
     "name": "Comando",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V",
     "duration": "1 rodada",
@@ -485,10 +485,10 @@
     "name": "Compreender Idiomas",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -498,10 +498,10 @@
     "level": "1",
     "name": "Constrição",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "27 metros",
     "components": "V, S",
     "concentration": "s",
@@ -512,10 +512,10 @@
     "name": "Convocar Familiar",
     "ritual": "s",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 hora",
+    "castingTime": "1 hora",
     "range": "3 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -525,10 +525,10 @@
     "level": "1",
     "name": "Criar ou Destruir Água",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -538,10 +538,10 @@
     "level": "1",
     "name": "Curar Ferimentos",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "duration": "instantânea",
@@ -550,10 +550,10 @@
     "level": "1",
     "name": "Destruição Colérica",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -563,10 +563,10 @@
     "level": "1",
     "name": "Destruição Lancinante",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -576,10 +576,10 @@
     "level": "1",
     "name": "Destruição Trovejante",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -589,10 +589,10 @@
     "level": "1",
     "name": "Detectar o Bem e Mal",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "concentration": "s",
@@ -603,10 +603,10 @@
     "name": "Detectar Magia",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "concentration": "s",
@@ -617,10 +617,10 @@
     "name": "Detectar Veneno e Doença",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -632,10 +632,10 @@
     "name": "Disco Flutuante de Tenser",
     "ritual": "s",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -645,10 +645,10 @@
     "level": "1",
     "name": "Disfarçar-se",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "duration": "1 hora",
@@ -657,10 +657,10 @@
     "level": "1",
     "name": "Duelo Compelido",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "9 metros",
     "components": "V",
     "concentration": "s",
@@ -670,10 +670,10 @@
     "level": "1",
     "name": "Enfeitiçar Pessoa",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S",
     "duration": "1 hora",
@@ -683,10 +683,10 @@
     "name": "Escrita Ilusória",
     "ritual": "s",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "toque",
     "components": "S, M",
     "duration": "10 dias",
@@ -696,10 +696,10 @@
     "level": "1",
     "name": "Escudo Arcano",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 reação",
+    "castingTime": "1 reação",
     "range": "pessoal",
     "components": "V, S",
     "duration": "1 rodada",
@@ -709,10 +709,10 @@
     "level": "1",
     "name": "Escudo da Fé",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -724,10 +724,10 @@
     "name": "Falar com Animais",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "duration": "10 minutos",
@@ -737,10 +737,10 @@
     "name": "Falar com Plantas",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "duration": "10 minutos",
@@ -749,10 +749,10 @@
     "level": "1",
     "name": "Fogo das Fadas",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V",
     "concentration": "s",
@@ -762,10 +762,10 @@
     "level": "1",
     "name": "Golpe Constritor",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -775,10 +775,10 @@
     "level": "1",
     "name": "Heroísmo",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "concentration": "s",
@@ -789,10 +789,10 @@
     "name": "Identificação",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -802,10 +802,10 @@
     "level": "1",
     "name": "Imagem Silenciosa",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -816,10 +816,10 @@
     "level": "1",
     "name": "Infligir Ferimentos",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "duration": "instantânea",
@@ -828,10 +828,10 @@
     "level": "1",
     "name": "Leque Cromático",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "1 rodada",
@@ -841,10 +841,10 @@
     "level": "1",
     "name": "Mãos Flamejantes",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "duration": "instantânea",
@@ -853,10 +853,10 @@
     "level": "1",
     "name": "Marca do Caçador",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "27 metros",
     "components": "V",
     "concentration": "s",
@@ -866,10 +866,10 @@
     "level": "1",
     "name": "Mísseis Mágicos",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -878,10 +878,10 @@
     "level": "1",
     "name": "Névoa Obscurecente",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "concentration": "s",
@@ -891,10 +891,10 @@
     "level": "1",
     "name": "Onda Trovejante",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "duration": "instantânea",
@@ -903,10 +903,10 @@
     "level": "1",
     "name": "Orbe Cromática",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "27 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -916,10 +916,10 @@
     "level": "1",
     "name": "Palavra Curativa",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "18 metros",
     "components": "V",
     "duration": "instantânea",
@@ -928,10 +928,10 @@
     "level": "1",
     "name": "Passos Longos",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -941,10 +941,10 @@
     "level": "1",
     "name": "Perdição",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -955,10 +955,10 @@
     "level": "1",
     "name": "Proteção contra o Bem e Mal",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "concentration": "s",
@@ -970,10 +970,10 @@
     "name": "Purificar Alimentos",
     "ritual": "s",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "3 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -982,10 +982,10 @@
     "level": "1",
     "name": "Queda Suave",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 reação",
+    "castingTime": "1 reação",
     "range": "18 metros",
     "components": "V, M",
     "duration": "1 minuto",
@@ -996,10 +996,10 @@
     "level": "1",
     "name": "Raio Adoecente",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -1008,10 +1008,10 @@
     "level": "1",
     "name": "Raio de Bruxa",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -1022,10 +1022,10 @@
     "level": "1",
     "name": "Raio Guiador",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "duration": "1 rodada",
@@ -1034,10 +1034,10 @@
     "level": "1",
     "name": "Recuo Acelerado",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V, S",
     "concentration": "s",
@@ -1047,10 +1047,10 @@
     "level": "1",
     "name": "Repreensão Infernal",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 reação",
+    "castingTime": "1 reação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -1060,10 +1060,10 @@
     "level": "1",
     "name": "Riso Histérico de Tasha",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -1074,10 +1074,10 @@
     "level": "1",
     "name": "Salto",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "1 minuto",
@@ -1087,10 +1087,10 @@
     "level": "1",
     "name": "Santuário",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "1 minuto",
@@ -1100,10 +1100,10 @@
     "level": "1",
     "name": "Saraivada de Espinhos",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -1114,10 +1114,10 @@
     "name": "Servo Invisível",
     "ritual": "s",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -1127,10 +1127,10 @@
     "level": "1",
     "name": "Sono",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "duration": "1 minuto",
@@ -1140,10 +1140,10 @@
     "level": "1",
     "name": "Sussurros Dissonantes",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V",
     "duration": "instantânea",
@@ -1152,10 +1152,10 @@
     "level": "1",
     "name": "Vitalidade Falsa",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -1165,10 +1165,10 @@
     "level": "2",
     "name": "Acalmar Emoções",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "concentration": "s",
@@ -1178,10 +1178,10 @@
     "level": "2",
     "name": "Ajuda",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "8 horas",
@@ -1191,10 +1191,10 @@
     "level": "2",
     "name": "Alterar-se",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "concentration": "s",
@@ -1204,10 +1204,10 @@
     "level": "2",
     "name": "Aprimorar Habilidade",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "concentration": "s",
@@ -1218,10 +1218,10 @@
     "level": "2",
     "name": "Arma Espiritual",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "18 metros",
     "components": "V, S",
     "duration": "1 minuto",
@@ -1230,10 +1230,10 @@
     "level": "2",
     "name": "Arma Mágica",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "toque",
     "components": "V, S",
     "concentration": "s",
@@ -1243,10 +1243,10 @@
     "level": "2",
     "name": "Arrombar",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V",
     "duration": "instantânea",
@@ -1256,10 +1256,10 @@
     "name": "Augúrio",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -1269,10 +1269,10 @@
     "level": "2",
     "name": "Aumentar/Reduzir",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -1283,10 +1283,10 @@
     "level": "2",
     "name": "Aura Mágica de Nystul",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "24 horas",
@@ -1297,10 +1297,10 @@
     "name": "Boca Encantada",
     "ritual": "s",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "até ser dissipada",
@@ -1310,10 +1310,10 @@
     "level": "2",
     "name": "Cativar",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "1 minuto",
@@ -1322,10 +1322,10 @@
     "level": "2",
     "name": "Cegueira/Surdez",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V",
     "duration": "1 minuto",
@@ -1334,10 +1334,10 @@
     "level": "2",
     "name": "Chama Contínua",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "até ser dissipada",
@@ -1347,10 +1347,10 @@
     "level": "2",
     "name": "Convocar Montaria",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "9 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -1359,10 +1359,10 @@
     "level": "2",
     "name": "Coroa da Loucura",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "concentration": "s",
@@ -1372,10 +1372,10 @@
     "level": "2",
     "name": "Cordão de Flechas",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "1,5 metro",
     "components": "V, S, M",
     "duration": "8 horas",
@@ -1385,10 +1385,10 @@
     "level": "2",
     "name": "Crescer Espinhos",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "45 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -1399,10 +1399,10 @@
     "level": "2",
     "name": "Despedaçar",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -1412,10 +1412,10 @@
     "level": "2",
     "name": "Detectar Pensamentos",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -1426,10 +1426,10 @@
     "level": "2",
     "name": "Encontrar Armadilhas",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -1438,10 +1438,10 @@
     "level": "2",
     "name": "Escuridão",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, M",
     "concentration": "s",
@@ -1452,10 +1452,10 @@
     "level": "2",
     "name": "Esfera Flamejante",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -1466,10 +1466,10 @@
     "level": "2",
     "name": "Esquentar Metal",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -1480,10 +1480,10 @@
     "level": "2",
     "name": "Flecha Ácida de Melf",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -1493,10 +1493,10 @@
     "level": "2",
     "name": "Força Fantasmagórica",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -1507,10 +1507,10 @@
     "level": "2",
     "name": "Imobilizar Pessoa",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -1521,10 +1521,10 @@
     "level": "2",
     "name": "Invisibilidade",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "concentration": "s",
@@ -1535,10 +1535,10 @@
     "level": "2",
     "name": "Lâmina Flamejante",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -1549,10 +1549,10 @@
     "level": "2",
     "name": "Levitação",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -1564,10 +1564,10 @@
     "name": "Localizar Animais ou Plantas",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -1577,10 +1577,10 @@
     "level": "2",
     "name": "Localizar Objeto",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -1591,10 +1591,10 @@
     "level": "2",
     "name": "Lufada de Vento",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -1605,10 +1605,10 @@
     "level": "2",
     "name": "Marca da Punição",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -1619,10 +1619,10 @@
     "name": "Mensageiro Animal",
     "ritual": "s",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "24 horas",
@@ -1632,10 +1632,10 @@
     "level": "2",
     "name": "Nublar",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -1645,10 +1645,10 @@
     "level": "2",
     "name": "Nuvem de Adagas",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -1659,10 +1659,10 @@
     "level": "2",
     "name": "Oração Curativa",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "9 metros",
     "components": "V",
     "duration": "instantânea",
@@ -1671,10 +1671,10 @@
     "level": "2",
     "name": "Passo Nebuloso",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V",
     "duration": "instantânea",
@@ -1683,10 +1683,10 @@
     "level": "2",
     "name": "Passos Sem Pegadas",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -1697,10 +1697,10 @@
     "level": "2",
     "name": "Patas de Aranha",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "concentration": "s",
@@ -1711,10 +1711,10 @@
     "level": "2",
     "name": "Pele de Árvore",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "concentration": "s",
@@ -1725,10 +1725,10 @@
     "level": "2",
     "name": "Proteção contra Veneno",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "duration": "1 hora",
@@ -1737,10 +1737,10 @@
     "level": "2",
     "name": "Raio Ardente",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -1749,10 +1749,10 @@
     "level": "2",
     "name": "Raio do Enfraquecimento",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "concentration": "s",
@@ -1762,10 +1762,10 @@
     "level": "2",
     "name": "Raio Lunar",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -1776,10 +1776,10 @@
     "level": "2",
     "name": "Reflexos",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "duration": "1 minuto",
@@ -1789,10 +1789,10 @@
     "name": "Repouso Tranquilo",
     "ritual": "s",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "10 dias",
@@ -1802,10 +1802,10 @@
     "level": "2",
     "name": "Restauração Menor",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "duration": "instantânea",
@@ -1815,10 +1815,10 @@
     "name": "Sentido Bestial",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "S",
     "concentration": "s",
@@ -1829,10 +1829,10 @@
     "name": "Silêncio",
     "ritual": "s",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "concentration": "s",
@@ -1842,10 +1842,10 @@
     "level": "2",
     "name": "Sugestão",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, M",
     "concentration": "s",
@@ -1856,10 +1856,10 @@
     "level": "2",
     "name": "Teia",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -1870,10 +1870,10 @@
     "level": "2",
     "name": "Tranca Arcana",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "até ser dissipada",
@@ -1883,10 +1883,10 @@
     "level": "2",
     "name": "Truque de Corda",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -1896,10 +1896,10 @@
     "level": "2",
     "name": "Ver o Invisível",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -1909,10 +1909,10 @@
     "level": "2",
     "name": "Vínculo Protetor",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -1922,10 +1922,10 @@
     "level": "2",
     "name": "Visão No Escuro",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "8 horas",
@@ -1935,10 +1935,10 @@
     "level": "2",
     "name": "Zona da Verdade",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "10 minutos",
@@ -1947,10 +1947,10 @@
     "level": "3",
     "name": "Ampliar Plantas",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação ou 8 horas",
+    "castingTime": "1 ação ou 8 horas",
     "range": "45 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -1960,10 +1960,10 @@
     "name": "Andar Na Água",
     "ritual": "s",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -1973,10 +1973,10 @@
     "level": "3",
     "name": "Animar Mortos",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "3 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -1986,10 +1986,10 @@
     "level": "3",
     "name": "Arma Elemental",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "concentration": "s",
@@ -1999,10 +1999,10 @@
     "level": "3",
     "name": "Aura de Vitalidade",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -2012,10 +2012,10 @@
     "level": "3",
     "name": "Bola de Fogo",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "45 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -2025,10 +2025,10 @@
     "level": "3",
     "name": "Círculo Mágico",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "3 metros",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -2038,10 +2038,10 @@
     "level": "3",
     "name": "Clarividência",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "1,5 quilômetro",
     "components": "V, S, M",
     "concentration": "s",
@@ -2053,10 +2053,10 @@
     "level": "3",
     "name": "Conjurar Animais",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "concentration": "s",
@@ -2067,10 +2067,10 @@
     "level": "3",
     "name": "Conjurar Rajada",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -2081,10 +2081,10 @@
     "level": "3",
     "name": "Contramágica",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 reação",
+    "castingTime": "1 reação",
     "range": "18 metros",
     "components": "S",
     "duration": "instantânea",
@@ -2095,10 +2095,10 @@
     "level": "3",
     "name": "Convocar Relâmpagos",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "concentration": "s",
@@ -2109,10 +2109,10 @@
     "level": "3",
     "name": "Criar Alimentos",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -2122,10 +2122,10 @@
     "level": "3",
     "name": "Destruição Cegante",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -2136,10 +2136,10 @@
     "level": "3",
     "name": "Dificultar Detecção",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "8 horas",
@@ -2150,10 +2150,10 @@
     "level": "3",
     "name": "Dissipar Magia",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -2163,10 +2163,10 @@
     "level": "3",
     "name": "Enviar Mensagem",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "ilimitado",
     "components": "V, S, M",
     "duration": "1 rodada",
@@ -2177,10 +2177,10 @@
     "level": "3",
     "name": "Espíritos Guardiões",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -2192,10 +2192,10 @@
     "level": "3",
     "name": "Falar com Os Mortos",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "3 metros",
     "components": "V, S, M",
     "duration": "10 minutos",
@@ -2206,10 +2206,10 @@
     "level": "3",
     "name": "Flecha Relampejante",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V, S",
     "concentration": "s",
@@ -2220,10 +2220,10 @@
     "level": "3",
     "name": "Fome de Hadar",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "45 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -2236,10 +2236,10 @@
     "name": "Forjar Morte",
     "ritual": "s",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -2250,10 +2250,10 @@
     "level": "3",
     "name": "Forma Gasosa",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "concentration": "s",
@@ -2265,10 +2265,10 @@
     "level": "3",
     "name": "Glifo de Vigilância",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 hora",
+    "castingTime": "1 hora",
     "range": "toque",
     "components": "V, S, M",
     "duration": "até ser dissipada ou ativada",
@@ -2279,10 +2279,10 @@
     "level": "3",
     "name": "Idiomas",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, M",
     "duration": "1 hora",
@@ -2293,10 +2293,10 @@
     "level": "3",
     "name": "Imagem Maior",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -2308,10 +2308,10 @@
     "level": "3",
     "name": "Lentidão",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -2323,10 +2323,10 @@
     "level": "3",
     "name": "Luz do Dia",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "1 hora",
@@ -2336,10 +2336,10 @@
     "level": "3",
     "name": "Manto do Cruzado",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -2350,10 +2350,10 @@
     "level": "3",
     "name": "Medo",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -2366,10 +2366,10 @@
     "name": "Mesclar-se Às Rochas",
     "ritual": "s",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "duration": "8 horas",
@@ -2380,10 +2380,10 @@
     "name": "Montaria Fantasmagórica",
     "ritual": "s",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "9 metros",
     "components": "V, S",
     "duration": "1 hora",
@@ -2393,10 +2393,10 @@
     "level": "3",
     "name": "Muralha de Vento",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -2408,10 +2408,10 @@
     "level": "3",
     "name": "Nevasca",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "45 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -2423,10 +2423,10 @@
     "level": "3",
     "name": "Névoa Fétida",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "27 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -2438,10 +2438,10 @@
     "level": "3",
     "name": "Padrão Hipnótico",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "S, M",
     "concentration": "s",
@@ -2453,10 +2453,10 @@
     "level": "3",
     "name": "Palavra Curativa Em Massa",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "18 metros",
     "components": "V",
     "duration": "instantânea",
@@ -2467,10 +2467,10 @@
     "name": "Pequena Cabana de Leomund",
     "ritual": "s",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "8 horas",
@@ -2481,10 +2481,10 @@
     "level": "3",
     "name": "Piscar",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "duration": "1 minuto",
@@ -2494,10 +2494,10 @@
     "level": "3",
     "name": "Proteção contra Energia",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "concentration": "s",
@@ -2508,10 +2508,10 @@
     "level": "3",
     "name": "Relâmpago",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -2522,10 +2522,10 @@
     "level": "3",
     "name": "Remover Maldição",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "duration": "instantânea",
@@ -2536,10 +2536,10 @@
     "name": "Respirar Na Água",
     "ritual": "s",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "24 horas",
@@ -2550,10 +2550,10 @@
     "level": "3",
     "name": "Revivificar",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -2564,10 +2564,10 @@
     "level": "3",
     "name": "Rogar Maldição",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "concentration": "s",
@@ -2578,10 +2578,10 @@
     "level": "3",
     "name": "Sinal de Esperança",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S",
     "concentration": "s",
@@ -2592,10 +2592,10 @@
     "level": "3",
     "name": "Toque Vampírico",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "concentration": "s",
@@ -2606,10 +2606,10 @@
     "level": "3",
     "name": "Velocidade",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -2621,10 +2621,10 @@
     "level": "3",
     "name": "Voo",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "concentration": "s",
@@ -2637,10 +2637,10 @@
     "name": "Adivinhação",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -2651,10 +2651,10 @@
     "level": "4",
     "name": "Arca Secreta de Leomund",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -2665,10 +2665,10 @@
     "level": "4",
     "name": "Assassino Fantasmagórico",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "concentration": "s",
@@ -2679,10 +2679,10 @@
     "level": "4",
     "name": "Aura de Pureza",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -2693,10 +2693,10 @@
     "level": "4",
     "name": "Aura de Vida",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -2707,10 +2707,10 @@
     "level": "4",
     "name": "Banimento",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -2722,10 +2722,10 @@
     "level": "4",
     "name": "Cão Fiel de Mordenkainen",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "8 horas",
@@ -2736,10 +2736,10 @@
     "level": "4",
     "name": "Compulsão",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S",
     "concentration": "s",
@@ -2750,10 +2750,10 @@
     "level": "4",
     "name": "Confusão",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "27 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -2765,10 +2765,10 @@
     "level": "4",
     "name": "Conjurar Elementais Menores",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "27 metros",
     "components": "V, S",
     "concentration": "s",
@@ -2779,10 +2779,10 @@
     "level": "4",
     "name": "Conjurar Seres da Floresta",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -2794,10 +2794,10 @@
     "level": "4",
     "name": "Controlar a Água",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "90 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -2809,10 +2809,10 @@
     "level": "4",
     "name": "Destruição Estonteante",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -2823,10 +2823,10 @@
     "level": "4",
     "name": "Dominar Besta",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "concentration": "s",
@@ -2837,10 +2837,10 @@
     "level": "4",
     "name": "Escudo de Fogo",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "10 minutos",
@@ -2851,10 +2851,10 @@
     "level": "4",
     "name": "Esfera Resiliente de Otiluke",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -2866,10 +2866,10 @@
     "level": "4",
     "name": "Fabricar",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "36 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -2879,10 +2879,10 @@
     "level": "4",
     "name": "Guardião da Fé",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V",
     "duration": "8 horas",
@@ -2892,10 +2892,10 @@
     "level": "4",
     "name": "Inseto Gigante",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S",
     "concentration": "s",
@@ -2906,10 +2906,10 @@
     "level": "4",
     "name": "Invisibilidade Maior",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "concentration": "s",
@@ -2920,10 +2920,10 @@
     "level": "4",
     "name": "Localizar Criatura",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -2935,10 +2935,10 @@
     "level": "4",
     "name": "Malogro",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -2948,10 +2948,10 @@
     "level": "4",
     "name": "Metamorfose",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -2963,10 +2963,10 @@
     "level": "4",
     "name": "Moldar Rochas",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -2977,10 +2977,10 @@
     "level": "4",
     "name": "Movimentação Livre",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -2991,10 +2991,10 @@
     "level": "4",
     "name": "Muralha de Fogo",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -3006,10 +3006,10 @@
     "level": "4",
     "name": "Olho Arcano",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -3021,10 +3021,10 @@
     "level": "4",
     "name": "Pele de Pedra",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "concentration": "s",
@@ -3036,10 +3036,10 @@
     "level": "4",
     "name": "Porta Dimensional",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "150 metros",
     "components": "V",
     "duration": "instantânea",
@@ -3049,10 +3049,10 @@
     "level": "4",
     "name": "Proteção contra a Morte",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "duration": "8 horas",
@@ -3062,10 +3062,10 @@
     "level": "4",
     "name": "Santuário Particular de Mordenkainen",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "36 metros",
     "components": "V, S, M",
     "duration": "24 horas",
@@ -3076,10 +3076,10 @@
     "level": "4",
     "name": "Tempestade de Gelo",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "90 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3090,10 +3090,10 @@
     "level": "4",
     "name": "Tentáculos Negros de Evard",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "27 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -3105,10 +3105,10 @@
     "level": "4",
     "name": "Terreno Alucinógeno",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "90 metros",
     "components": "V, S, M",
     "duration": "24 horas",
@@ -3119,10 +3119,10 @@
     "level": "4",
     "name": "Vinha Esmagadora",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "9 metros",
     "components": "V, S",
     "concentration": "s",
@@ -3133,10 +3133,10 @@
     "level": "5",
     "name": "Aljava Veloz",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "toque",
     "components": "V, S, M",
     "concentration": "s",
@@ -3148,10 +3148,10 @@
     "level": "5",
     "name": "Âncora Planar",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 hora",
+    "castingTime": "1 hora",
     "range": "18 metros",
     "components": "V, S, M",
     "duration": "24 horas",
@@ -3162,10 +3162,10 @@
     "level": "5",
     "name": "Animar Objetos",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "concentration": "s",
@@ -3176,10 +3176,10 @@
     "level": "5",
     "name": "Caminhar Em Árvores",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "concentration": "s",
@@ -3190,10 +3190,10 @@
     "level": "5",
     "name": "Círculo de Poder",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -3204,10 +3204,10 @@
     "level": "5",
     "name": "Círculo de Teletransporte",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "3 metros",
     "components": "V, M",
     "duration": "1 rodada",
@@ -3218,10 +3218,10 @@
     "level": "5",
     "name": "Coluna de Chamas",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3233,10 +3233,10 @@
     "name": "Comunhão",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "1 minuto",
@@ -3248,10 +3248,10 @@
     "name": "Comunhão com a Natureza",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "pessoal",
     "components": "V, S",
     "duration": "instantânea",
@@ -3261,10 +3261,10 @@
     "level": "5",
     "name": "Cone de Frio",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3275,10 +3275,10 @@
     "level": "5",
     "name": "Conhecimento Lendário",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3289,10 +3289,10 @@
     "level": "5",
     "name": "Conjurar Elemental",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "27 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -3304,10 +3304,10 @@
     "level": "5",
     "name": "Conjurar Saraivada",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "45 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3318,10 +3318,10 @@
     "level": "5",
     "name": "Consagrar",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "24 horas",
+    "castingTime": "24 horas",
     "range": "toque",
     "components": "V, S, M",
     "duration": "até ser dissipada",
@@ -3333,10 +3333,10 @@
     "name": "Contato Extraplanar",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "pessoal",
     "components": "V",
     "duration": "1 minuto",
@@ -3346,10 +3346,10 @@
     "level": "5",
     "name": "Criação",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "especial",
@@ -3360,10 +3360,10 @@
     "level": "5",
     "name": "Criar Passagem",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -3374,10 +3374,10 @@
     "level": "5",
     "name": "Cúpula Antivida",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "concentration": "s",
@@ -3388,10 +3388,10 @@
     "level": "5",
     "name": "Curar Ferimentos Em Massa",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -3401,10 +3401,10 @@
     "level": "5",
     "name": "Despertar",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "8 horas",
+    "castingTime": "8 horas",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3415,10 +3415,10 @@
     "level": "5",
     "name": "Despistar",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "S",
     "concentration": "s",
@@ -3429,10 +3429,10 @@
     "level": "5",
     "name": "Destruição Banidora",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "pessoal",
     "components": "V",
     "concentration": "s",
@@ -3443,10 +3443,10 @@
     "level": "5",
     "name": "Dissipar o Bem e Mal",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -3458,10 +3458,10 @@
     "level": "5",
     "name": "Dominar Pessoa",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "concentration": "s",
@@ -3472,10 +3472,10 @@
     "level": "5",
     "name": "Imobilizar Monstro",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "27 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -3488,10 +3488,10 @@
     "name": "Ligação Telepática de Rary",
     "ritual": "s",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -3502,10 +3502,10 @@
     "level": "5",
     "name": "Mão de Bigby",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -3517,10 +3517,10 @@
     "level": "5",
     "name": "Missão",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "18 metros",
     "components": "V",
     "duration": "30 dias",
@@ -3530,10 +3530,10 @@
     "level": "5",
     "name": "Modificar Memória",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S",
     "concentration": "s",
@@ -3544,10 +3544,10 @@
     "level": "5",
     "name": "Muralha de Energia",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -3559,10 +3559,10 @@
     "level": "5",
     "name": "Muralha de Pedra",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -3574,10 +3574,10 @@
     "level": "5",
     "name": "Névoa Mortal",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "concentration": "s",
@@ -3588,10 +3588,10 @@
     "level": "5",
     "name": "Onda Destrutiva",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V",
     "duration": "instantânea",
@@ -3601,10 +3601,10 @@
     "level": "5",
     "name": "Praga",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "duration": "7 dias",
@@ -3614,10 +3614,10 @@
     "level": "5",
     "name": "Praga de Insetos",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "90 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -3629,10 +3629,10 @@
     "level": "5",
     "name": "Reencarnação",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 hora",
+    "castingTime": "1 hora",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3643,10 +3643,10 @@
     "level": "5",
     "name": "Restauração Maior",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3657,10 +3657,10 @@
     "level": "5",
     "name": "Reviver Os Mortos",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 hora",
+    "castingTime": "1 hora",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3671,10 +3671,10 @@
     "level": "5",
     "name": "Similaridade",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S",
     "duration": "8 horas",
@@ -3684,10 +3684,10 @@
     "level": "5",
     "name": "Sonho",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "especial",
     "components": "V, S, M",
     "duration": "8 horas",
@@ -3698,10 +3698,10 @@
     "level": "5",
     "name": "Telecinésia",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "concentration": "s",
@@ -3712,10 +3712,10 @@
     "level": "5",
     "name": "Vidência",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -3727,10 +3727,10 @@
     "level": "6",
     "name": "Aliado Planar",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "18 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -3740,10 +3740,10 @@
     "level": "6",
     "name": "Ataque Visual",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "concentration": "s",
@@ -3754,10 +3754,10 @@
     "level": "6",
     "name": "Banquete dos Heróis",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3768,10 +3768,10 @@
     "level": "6",
     "name": "Barreira de Lâminas",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "24 metros",
     "components": "V, S",
     "concentration": "s",
@@ -3782,10 +3782,10 @@
     "level": "6",
     "name": "Caminhar No Vento",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "8 horas",
@@ -3796,10 +3796,10 @@
     "level": "6",
     "name": "Carne Para Pedra",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -3811,10 +3811,10 @@
     "level": "6",
     "name": "Círculo da Morte",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "45 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3825,10 +3825,10 @@
     "level": "6",
     "name": "Conjurar Fada",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "27 metros",
     "components": "V, S",
     "concentration": "s",
@@ -3839,10 +3839,10 @@
     "level": "6",
     "name": "Contingência",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "10 dias",
@@ -3853,10 +3853,10 @@
     "level": "6",
     "name": "Corrente de Relâmpagos",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "45 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3867,10 +3867,10 @@
     "level": "6",
     "name": "Criar Mortos-Vivos",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "3 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3881,10 +3881,10 @@
     "level": "6",
     "name": "Cura Completa",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -3894,10 +3894,10 @@
     "level": "6",
     "name": "Dança Irresistível de Otto",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V",
     "concentration": "s",
@@ -3908,10 +3908,10 @@
     "level": "6",
     "name": "Desintegrar",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3922,10 +3922,10 @@
     "level": "6",
     "name": "Doença Plena",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -3935,10 +3935,10 @@
     "level": "6",
     "name": "Encontrar o Caminho",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -3950,10 +3950,10 @@
     "level": "6",
     "name": "Esfera Congelante de Otiluke",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "90 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -3964,10 +3964,10 @@
     "level": "6",
     "name": "Globo de Invulnerabilidade",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -3979,10 +3979,10 @@
     "level": "6",
     "name": "Ilusão Programada",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "duration": "até ser dissipada",
@@ -3994,10 +3994,10 @@
     "name": "Invocação Instantânea de Drawmij",
     "ritual": "s",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "toque",
     "components": "V, S, M",
     "duration": "até ser dissipada",
@@ -4008,10 +4008,10 @@
     "level": "6",
     "name": "Mover Terra",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -4023,10 +4023,10 @@
     "level": "6",
     "name": "Muralha de Espinhos",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -4038,10 +4038,10 @@
     "level": "6",
     "name": "Muralha de Gelo",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -4053,10 +4053,10 @@
     "level": "6",
     "name": "Palavra de Recordação",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "1,5 metro",
     "components": "V",
     "duration": "instantânea",
@@ -4066,10 +4066,10 @@
     "level": "6",
     "name": "Portal Arcano",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "150 metros",
     "components": "V, S",
     "concentration": "s",
@@ -4081,10 +4081,10 @@
     "name": "Proibição",
     "ritual": "s",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "toque",
     "components": "V, S, M",
     "duration": "1 dia",
@@ -4095,10 +4095,10 @@
     "level": "6",
     "name": "Proteger Fortaleza",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "toque",
     "components": "V, S, M",
     "duration": "24 horas",
@@ -4109,10 +4109,10 @@
     "level": "6",
     "name": "Raio Solar",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -4124,10 +4124,10 @@
     "level": "6",
     "name": "Recipiente Arcano",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "pessoal",
     "components": "V, S, M",
     "duration": "até ser dissipada",
@@ -4138,10 +4138,10 @@
     "level": "6",
     "name": "Sugestão Em Massa",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, M",
     "duration": "24 horas",
@@ -4152,10 +4152,10 @@
     "level": "6",
     "name": "Teletransporte Por Árvores",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "3 metros",
     "components": "V, S",
     "duration": "1 rodada",
@@ -4165,10 +4165,10 @@
     "level": "6",
     "name": "Visão da Verdade",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -4179,10 +4179,10 @@
     "level": "7",
     "name": "Bola de Fogo Controlável",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "45 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -4194,10 +4194,10 @@
     "level": "7",
     "name": "Conjurar Celestial",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "27 metros",
     "components": "V, S",
     "concentration": "s",
@@ -4208,10 +4208,10 @@
     "level": "7",
     "name": "Dedo da Morte",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -4221,10 +4221,10 @@
     "level": "7",
     "name": "Espada de Mordenkainen",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -4236,10 +4236,10 @@
     "level": "7",
     "name": "Forma Etérea",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "duration": "até 8 horas",
@@ -4249,10 +4249,10 @@
     "level": "7",
     "name": "Inverter a Gravidade",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "30 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -4264,10 +4264,10 @@
     "level": "7",
     "name": "Isolamento",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "até ser dissipada",
@@ -4278,10 +4278,10 @@
     "level": "7",
     "name": "Mansão Magnífica de Mordenkainen",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "90 metros",
     "components": "V, S, M",
     "duration": "24 horas",
@@ -4292,10 +4292,10 @@
     "level": "7",
     "name": "Miragem",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "visão",
     "components": "V, S",
     "duration": "10 dias",
@@ -4305,10 +4305,10 @@
     "level": "7",
     "name": "Palavra Divina",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação bônus",
+    "castingTime": "1 ação bônus",
     "range": "9 metros",
     "components": "V",
     "duration": "instantânea",
@@ -4318,10 +4318,10 @@
     "level": "7",
     "name": "Prisão de Energia",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "30 metros",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -4332,10 +4332,10 @@
     "level": "7",
     "name": "Projetar Imagem",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "750 quilômetros",
     "components": "V, S, M",
     "concentration": "s",
@@ -4347,10 +4347,10 @@
     "level": "7",
     "name": "Rajada Prismática",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S",
     "duration": "instantânea",
@@ -4360,10 +4360,10 @@
     "level": "7",
     "name": "Regeneração",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "toque",
     "components": "V, S, M",
     "duration": "1 hora",
@@ -4374,10 +4374,10 @@
     "level": "7",
     "name": "Ressurreição",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 hora",
+    "castingTime": "1 hora",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -4388,10 +4388,10 @@
     "level": "7",
     "name": "Símbolo",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "toque",
     "components": "V, S, M",
     "duration": "até ser dissipada ou ativada",
@@ -4402,10 +4402,10 @@
     "level": "7",
     "name": "Simulacro",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "12 horas",
+    "castingTime": "12 horas",
     "range": "toque",
     "components": "V, S, M",
     "duration": "até ser dissipada",
@@ -4416,10 +4416,10 @@
     "level": "7",
     "name": "Teletransporte",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "3 metros",
     "components": "V",
     "duration": "instantânea",
@@ -4429,10 +4429,10 @@
     "level": "7",
     "name": "Tempestade de Fogo",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "45 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -4442,10 +4442,10 @@
     "level": "7",
     "name": "Viagem Planar",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -4456,10 +4456,10 @@
     "level": "8",
     "name": "Antipatia/Simpatia",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 hora",
+    "castingTime": "1 hora",
     "range": "18 metros",
     "components": "V, S, M",
     "duration": "10 dias",
@@ -4470,10 +4470,10 @@
     "level": "8",
     "name": "Aura Sagrada",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -4485,10 +4485,10 @@
     "level": "8",
     "name": "Campo Antimagia",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -4500,10 +4500,10 @@
     "level": "8",
     "name": "Clone",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 hora",
+    "castingTime": "1 hora",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -4514,10 +4514,10 @@
     "level": "8",
     "name": "Controlar o Clima",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "10 minutos",
+    "castingTime": "10 minutos",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -4529,10 +4529,10 @@
     "level": "8",
     "name": "Dominar Monstro",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "concentration": "s",
@@ -4543,10 +4543,10 @@
     "level": "8",
     "name": "Enfraquecer Intelecto",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "45 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -4557,10 +4557,10 @@
     "level": "8",
     "name": "Explosão Solar",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "45 metros",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -4571,10 +4571,10 @@
     "level": "8",
     "name": "Formas Animais",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S",
     "concentration": "s",
@@ -4585,10 +4585,10 @@
     "level": "8",
     "name": "Labirinto",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "concentration": "s",
@@ -4599,10 +4599,10 @@
     "level": "8",
     "name": "Limpar a Mente",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "duration": "24 horas",
@@ -4612,10 +4612,10 @@
     "level": "8",
     "name": "Loquacidade",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V",
     "duration": "1 hora",
@@ -4625,10 +4625,10 @@
     "level": "8",
     "name": "Nuvem Incendiária",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "45 metros",
     "components": "V, S",
     "concentration": "s",
@@ -4639,10 +4639,10 @@
     "level": "8",
     "name": "Palavra de Poder Atordoar",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V",
     "duration": "instantânea",
@@ -4652,10 +4652,10 @@
     "level": "8",
     "name": "Semiplano",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V",
     "duration": "1 hora",
@@ -4665,10 +4665,10 @@
     "level": "8",
     "name": "Telepatia",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "ilimitado",
     "components": "V, S, M",
     "duration": "24 horas",
@@ -4679,10 +4679,10 @@
     "level": "8",
     "name": "Terremoto",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "150 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -4694,10 +4694,10 @@
     "level": "8",
     "name": "Tsunami",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "visão",
     "components": "V, S",
     "concentration": "s",
@@ -4708,10 +4708,10 @@
     "level": "9",
     "name": "Alterar Forma",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V, S, M",
     "concentration": "s",
@@ -4723,10 +4723,10 @@
     "level": "9",
     "name": "Aprisionamento",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "9 metros",
     "components": "V, S, M",
     "duration": "até ser dissipada",
@@ -4737,10 +4737,10 @@
     "level": "9",
     "name": "Chuva de Meteoros",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "1,5 quilômetro",
     "components": "V, S",
     "duration": "instantânea",
@@ -4750,10 +4750,10 @@
     "level": "9",
     "name": "Cura Completa Em Massa",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "instantânea",
@@ -4763,10 +4763,10 @@
     "level": "9",
     "name": "Desejo",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V",
     "duration": "instantânea",
@@ -4776,10 +4776,10 @@
     "level": "9",
     "name": "Encarnação Fantasmagórica",
     "school": {
-      "pt": "ilusão",
-      "en": "ilusion"
+      "pt": "Ilusão",
+      "style": "ilusion"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "36 metros",
     "components": "V, S",
     "concentration": "s",
@@ -4790,10 +4790,10 @@
     "level": "9",
     "name": "Metamorfose Verdadeira",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "9 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -4805,10 +4805,10 @@
     "level": "9",
     "name": "Muralha Prismática",
     "school": {
-      "pt": "abjuração",
-      "en": "abjuration"
+      "pt": "Abjuração",
+      "style": "abjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S",
     "duration": "10 minutos",
@@ -4818,10 +4818,10 @@
     "level": "9",
     "name": "Palavra de Poder Curar",
     "school": {
-      "pt": "evocação",
-      "en": "evocation"
+      "pt": "Evocação",
+      "style": "evocation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "toque",
     "components": "V, S",
     "duration": "instantânea",
@@ -4831,10 +4831,10 @@
     "level": "9",
     "name": "Palavra de Poder Matar",
     "school": {
-      "pt": "encantamento",
-      "en": "enchantment"
+      "pt": "Encantamento",
+      "style": "enchantment"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V",
     "duration": "instantânea",
@@ -4844,10 +4844,10 @@
     "level": "9",
     "name": "Parar o Tempo",
     "school": {
-      "pt": "transmutação",
-      "en": "transmutation"
+      "pt": "Transmutação",
+      "style": "transmutation"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "pessoal",
     "components": "V",
     "duration": "instantânea",
@@ -4857,10 +4857,10 @@
     "level": "9",
     "name": "Portal",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "18 metros",
     "components": "V, S, M",
     "concentration": "s",
@@ -4872,10 +4872,10 @@
     "level": "9",
     "name": "Projeção Astral",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 hora",
+    "castingTime": "1 hora",
     "range": "3 metros",
     "components": "V, S, M",
     "duration": "especial",
@@ -4886,10 +4886,10 @@
     "level": "9",
     "name": "Ressurreição Verdadeira",
     "school": {
-      "pt": "necromancia",
-      "en": "necromancy"
+      "pt": "Necromancia",
+      "style": "necromancy"
     },
-    "cast": "1 hora",
+    "castingTime": "1 hora",
     "range": "toque",
     "components": "V, S, M",
     "duration": "instantânea",
@@ -4900,10 +4900,10 @@
     "level": "9",
     "name": "Sexto Sentido",
     "school": {
-      "pt": "adivinhação",
-      "en": "divination"
+      "pt": "Adivinhação",
+      "style": "divination"
     },
-    "cast": "1 minuto",
+    "castingTime": "1 minuto",
     "range": "toque",
     "components": "V, S, M",
     "duration": "8 horas",
@@ -4914,10 +4914,10 @@
     "level": "9",
     "name": "Tempestade da Vingança",
     "school": {
-      "pt": "conjuração",
-      "en": "conjuration"
+      "pt": "Conjuração",
+      "style": "conjuration"
     },
-    "cast": "1 ação",
+    "castingTime": "1 ação",
     "range": "visão",
     "components": "V, S",
     "concentration": "s",

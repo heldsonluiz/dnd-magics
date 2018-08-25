@@ -1,27 +1,20 @@
 <template>
-  <div class="MagicList">
+  <div class="SpellList">
 
     <v-container grid-list-lg>
       <v-layout row wrap>
         <spell
           v-for="(item, index) in filteredList" :key=index
           @clicked="filterClass"
-          :magic="item">
+          :spell="item">
         </spell>
       </v-layout>
     </v-container>
-
-
-    <v-snackbar v-model="snackbar" top color="info"
-      :timeout="2000" multi-line vertical>
-      Magias de {{ this.upper(this.filter.class) }}
-    </v-snackbar>
-
   </div>
 </template>
 
 <script>
-import magicList from '~/listOfMagics.json';
+import spellList from '~/listOfSpells.json';
 import Spell from '@/components/Spell';
 
 export default {
@@ -32,9 +25,7 @@ export default {
   },
   data() {
     return {
-      snackbar: false,
-      timeout: 2000,
-      magics: magicList,
+      spells: spellList,
       levels: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
       classes: ['bardo', 'bruxo', 'clérigo', 'druida', 'feiticeiro', 'mago', 'paladino', 'patrulheiro'],
     };
@@ -45,19 +36,17 @@ export default {
     },
 
     filterClass(value) {
-      this.snackbar = true;
       this.filter.class = value;
-    },
-
-    upper(value) {
-      return !this.isEmpty(value) ? value.charAt(0).toUpperCase() + value.slice(1) : value;
     },
   },
   computed: {
     filteredList() {
-      let list = magicList.filter(item =>
-        item.name.toLowerCase().includes(this.filter.name.toLowerCase()),
-      );
+      let list = spellList;
+
+      if (!this.isEmpty(this.filter.name)) {
+        list = spellList.filter(item =>
+          item.name.toLowerCase().includes(this.filter.name.toLowerCase()));
+      }
 
       if (!this.isEmpty(this.filter.class)) {
         list = list.filter(item =>
@@ -72,7 +61,6 @@ export default {
       }
 
       if (!this.isEmpty(this.filter.school)) {
-        debugger;
         list = list.filter(item =>
           item.school.pt.toLowerCase() === this.filter.school.toLowerCase(),
         );

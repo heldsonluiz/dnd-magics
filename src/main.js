@@ -1,19 +1,21 @@
 import 'vuetify/dist/vuetify.min.css';
+import 'font-awesome/css/font-awesome.min.css';
 import Vue from 'vue';
 import App from '@/App';
 import Vuetify from 'vuetify';
 
 Vue.use(Vuetify, {
   theme: {
-    abjuration: '#90CAF9',
-    divination: '#B0BEC5',
-    conjuration: '#FFA726',
-    enchantment: '#CE93D8',
-    evocation: '#E57373',
-    illusion: '#AB47BC',
-    necromancy: '#66BB6A',
-    transmutation: '#66BB6A',
+    abjuration: '#1E88E5',
+    divination: '#78909C',
+    conjuration: '#FB8C00',
+    enchantment: '#8E24AA',
+    evocation: '#E53935',
+    illusion: '#5E35B1',
+    necromancy: '#43A047',
+    transmutation: '#F9A825',
   },
+  iconfont: 'fa4',
 });
 
 Vue.config.productionTip = false;
