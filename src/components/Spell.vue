@@ -1,6 +1,7 @@
 <template>
   <v-flex xs12 sm6 md4 xl2>
     <v-card>
+
       <v-card-title>
         <div>
           <div class="title" :class="`${spell.school.style}--text`" >
@@ -8,17 +9,19 @@
             <span v-if="spell.ritual" class="grey--text subheading"> (ritual)</span>
           </div>
           <v-avatar size="16" class="Spell__avatar">
-            <img :src="`./static/assets/img/${spell.school.style}.png`">
+            <img :src="`./static/img/${spell.school.style}.png`">
           </v-avatar>
-          <span class="grey--text">{{ spell.school.pt }} {{ spell.level }}</span>
+          <span class="grey--text">{{ `${spell.school.pt.toLowerCase()}` }} {{ spell.level }}</span>
         </div>
       </v-card-title>
+
       <v-card-text class="py-0 px-2">
         <v-chip v-for="(item, id) in spell.classes"
-          small :key='id' @click="filterClass(item)">
+          small :key='id' @click="doFilterClass(item)">
           {{`${item}`}}
         </v-chip>
       </v-card-text>
+
       <v-slide-y-transition>
         <v-card-text>
           <ul class="pb-3 Spell__details">
@@ -39,21 +42,21 @@
           <div class="Spells__resume" v-html="this.peep"></div>
         </v-card-text>
       </v-slide-y-transition>
+
       <div class="text-xs-center pb-3">
         <v-dialog v-model="show" width="500">
           <v-btn slot="activator" color="info" @click="show = !show" class="caption">
             descrição completa
           </v-btn>
+
           <v-card>
             <v-card-title class="headline"
             :class="`${spell.school.style} white--text`" primary-title>
               {{spell.name}}
               <v-spacer></v-spacer>
               <span v-if="spell.ritual" class="white--text subheading"> (ritual)</span>
-              <!--v-avatar size="24" class="Spell__avatar">
-                <img :src="`./static/assets/img/${spell.school.style}.png`">
-              </v-avatar-->
             </v-card-title>
+
             <v-card-text>
               <ul class="pb-3 Spell__details">
                 <li>
@@ -75,7 +78,9 @@
               </ul>
               <span v-html="spell.description"></span>
             </v-card-text>
+
             <v-divider></v-divider>
+
             <v-card-actions>
               <v-flex class="text-xs-center">
                 <v-btn color="primary" outline @click="show = false">
@@ -83,9 +88,11 @@
                 </v-btn>
               </v-flex>
             </v-card-actions>
+
           </v-card>
         </v-dialog>
       </div>
+
     </v-card>
   </v-flex>
 </template>
@@ -106,8 +113,8 @@ export default {
     },
   },
   methods: {
-    filterClass(value) {
-      this.$emit('clicked', value);
+    doFilterClass(value) {
+      this.$emit('filterClass', value);
     },
   },
 };

@@ -1,11 +1,10 @@
 <template>
   <div class="SpellList">
-
     <v-container grid-list-lg>
       <v-layout row wrap>
         <spell
           v-for="(item, index) in filteredList" :key=index
-          @clicked="filterClass"
+          @filterClass="doFilterClass"
           :spell="item">
         </spell>
       </v-layout>
@@ -27,7 +26,7 @@ export default {
     return {
       spells: spellList,
       levels: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
-      classes: ['bardo', 'bruxo', 'clérigo', 'druida', 'feiticeiro', 'mago', 'paladino', 'patrulheiro'],
+      classes: ['Bárbaro', 'Bardo', 'Bruxo', 'Clérigo', 'Druida', 'Feiticeiro', 'Guerreiro', 'Ladino', 'Mago', 'Monge', 'Paladino', 'Patrulheiro'],
     };
   },
   methods: {
@@ -35,8 +34,9 @@ export default {
       return !value || value === '';
     },
 
-    filterClass(value) {
+    doFilterClass(value) {
       this.filter.class = value;
+      this.$emit('filterClass', value);
     },
   },
   computed: {

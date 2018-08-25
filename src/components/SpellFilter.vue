@@ -20,27 +20,13 @@
 <script>
 export default {
   name: 'SpellFilter',
+  props: ['filter'],
   data() {
     return {
-      filter: {
-        name: '',
-        level: '',
-        school: '',
-        class: '',
-      },
       levels: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
-      classes: ['bárbaro', 'bardo', 'bruxo', 'clérigo', 'druida', 'feiticeiro', 'ladino', 'mago', 'paladino', 'patrulheiro'],
-      schools: ['abjuração', 'adivinhação', 'conjuração', 'encantamento', 'evocação', 'ilusão', 'necromancia', 'transmutação'],
+      classes: ['Bárbaro', 'Bardo', 'Bruxo', 'Clérigo', 'Druida', 'Feiticeiro', 'Guerreiro', 'Ladino', 'Mago', 'Monge', 'Paladino', 'Patrulheiro'],
+      schools: ['Abjuração', 'Adivinhação', 'Conjuração', 'Encantamento', 'Evocação', 'Ilusão', 'Necromancia', 'Transmutação'],
     };
-  },
-  watch: {
-    filter: {
-      handler(val) {
-        const filt = { ...val };
-        this.$emit('doFilter', filt);
-      },
-      deep: true,
-    },
   },
 };
 </script>

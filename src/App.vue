@@ -3,25 +3,17 @@
     <v-toolbar dark color="primary">
       <v-toolbar-title class="white--text font-weight-black">D&D Spells</v-toolbar-title>
       <v-spacer></v-spacer>
-      <v-btn icon>
-        <v-icon size="24px">fa-facebook-square</v-icon>
-      </v-btn>
-      <v-btn icon>
-        <v-icon size="24px">fa-github</v-icon>
-      </v-btn>
-      <v-btn icon>
-        <v-icon size="24px">fa-linkedin-square</v-icon>
-      </v-btn>
       <v-btn icon @click="show = !show">
         <v-icon>info</v-icon>
       </v-btn>
     </v-toolbar>
+
     <v-container>
-      <spell-filter @doFilter="doFilter" />
-      <spell-list :filter="filter" />
+      <spell-filter :filter="filter" @filter="doFilter" />
+      <spell-list :filter="filter" @filterClass="doFilterClass" />
       <v-dialog v-model="show" width="500">
         <v-card>
-          <v-card-media src="/static/assets/img/dnd-magic.jpg" height="200px"></v-card-media>
+          <v-card-media src="/static/img/dnd-magic.jpg" height="200px"></v-card-media>
           <v-card-title primary-title>
             <div>
               <h3 class="headline mb-0">Hail e Well Met!</h3>
@@ -75,6 +67,10 @@ export default {
   methods: {
     doFilter(filter) {
       this.filter = filter;
+    },
+
+    doFilterClass(classs) {
+      this.filter.class = classs;
     },
   },
 };
