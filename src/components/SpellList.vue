@@ -1,14 +1,28 @@
 <template>
   <div class="SpellList">
+    <div class="text-xs-center">
+      <v-pagination
+        v-model="pagination.currentPage"
+        :length="this.numOfPages"
+        :total-visible="7">
+      </v-pagination>
+    </div>
     <v-container grid-list-lg>
       <v-layout row wrap>
         <spell
-          v-for="(item, index) in filteredList" :key=index
+          v-for="(item, index) in computedSpells" :key=index
           @filterClass="doFilterClass"
           :spell="item">
         </spell>
       </v-layout>
     </v-container>
+    <div class="text-xs-center">
+      <v-pagination
+        v-model="pagination.currentPage"
+        :length="this.numOfPages"
+        :total-visible="7">
+      </v-pagination>
+    </div>
   </div>
 </template>
 
@@ -24,6 +38,11 @@ export default {
   },
   data() {
     return {
+      pagination: {
+        currentPage: 1,
+        perPage: 12,
+        perPageOptions: [12, 24, 36],
+      },
       spells: spellList,
       levels: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
       classes: ['Bárbaro', 'Bardo', 'Bruxo', 'Clérigo', 'Druida', 'Feiticeiro', 'Guerreiro', 'Ladino', 'Mago', 'Monge', 'Paladino', 'Patrulheiro'],
@@ -38,9 +57,13 @@ export default {
       this.filter.class = value;
       this.$emit('filterClass', value);
     },
+    setPage(n) {
+      this.pagination.currentPage = n;
+    },
   },
   computed: {
     filteredList() {
+      this.setPage(1);
       let list = spellList;
 
       if (!this.isEmpty(this.filter.name)) {
@@ -67,6 +90,22 @@ export default {
       }
 
       return list;
+    },
+    offset() {
+      return ((this.pagination.currentPage - 1) * this.pagination.perPage);
+    },
+    limit() {
+      return (this.offset + this.pagination.perPage);
+    },
+    numOfPages() {
+      return Math.ceil(this.filteredList.length / this.pagination.perPage);
+    },
+    computedSpells() {
+      const list = this.filteredList;
+      if (this.offset > list.length) {
+        this.setPage(this.numOfPages);
+      }
+      return list.slice(this.offset, this.limit);
     },
   },
 };

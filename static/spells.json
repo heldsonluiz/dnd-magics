@@ -143,7 +143,7 @@
     "name": "Ilusão Menor",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "9 metros",
@@ -401,7 +401,7 @@
     "components": "V, S, M",
     "duration": "1 hora",
     "material": "um copo de água",
-    "description": "Uma força magica protetora envolve você, manifestando - se como um frio espectral que cobre você e seu equipamento. Você ganha 5 pontos de vida temporários pela duração. Se uma criatura atingir você com um ataque corpo - a - corpo enquanto estiver com esses pontos de vida, a criatura sofrerá 5 de dano de frio.</p><p><strong> Em Níveis Superiores </strong>. Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, tanto os pontos de vida temporários quanto o dano de frio aumentam em 5 para cada nível do espaço acima do 1°."
+    "description": "Uma força mágicaprotetora envolve você, manifestando - se como um frio espectral que cobre você e seu equipamento. Você ganha 5 pontos de vida temporários pela duração. Se uma criatura atingir você com um ataque corpo - a - corpo enquanto estiver com esses pontos de vida, a criatura sofrerá 5 de dano de frio.</p><p><strong> Em Níveis Superiores </strong>. Quando você conjurar essa magia usando um espaço de magia de 2° nível ou superior, tanto os pontos de vida temporários quanto o dano de frio aumentam em 5 para cada nível do espaço acima do 1°."
   }, {
     "level": "1",
     "name": "Auxílio Divino",
@@ -646,7 +646,7 @@
     "name": "Disfarçar-se",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "pessoal",
@@ -684,7 +684,7 @@
     "ritual": "s",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 minuto",
     "range": "toque",
@@ -803,7 +803,7 @@
     "name": "Imagem Silenciosa",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "18 metros",
@@ -829,7 +829,7 @@
     "name": "Leque Cromático",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "pessoal",
@@ -1284,7 +1284,7 @@
     "name": "Aura Mágica de Nystul",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "toque",
@@ -1298,7 +1298,7 @@
     "ritual": "s",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 minuto",
     "range": "9 metros",
@@ -1494,7 +1494,7 @@
     "name": "Força Fantasmagórica",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "18 metros",
@@ -1522,7 +1522,7 @@
     "name": "Invisibilidade",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "toque",
@@ -1633,7 +1633,7 @@
     "name": "Nublar",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "pessoal",
@@ -1777,7 +1777,7 @@
     "name": "Reflexos",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "pessoal",
@@ -1830,7 +1830,7 @@
     "ritual": "s",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "36 metros",
@@ -2294,7 +2294,7 @@
     "name": "Imagem Maior",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "36 metros",
@@ -2351,7 +2351,7 @@
     "name": "Medo",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "pessoal",
@@ -2381,7 +2381,7 @@
     "ritual": "s",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 minuto",
     "range": "9 metros",
@@ -2439,7 +2439,7 @@
     "name": "Padrão Hipnótico",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "36 metros",
@@ -2666,7 +2666,7 @@
     "name": "Assassino Fantasmagórico",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "36 metros",
@@ -2907,7 +2907,7 @@
     "name": "Invisibilidade Maior",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "toque",
@@ -3106,7 +3106,7 @@
     "name": "Terreno Alucinógeno",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "10 minutos",
     "range": "90 metros",
@@ -3347,7 +3347,7 @@
     "name": "Criação",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 minuto",
     "range": "9 metros",
@@ -3416,7 +3416,7 @@
     "name": "Despistar",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "pessoal",
@@ -3672,7 +3672,7 @@
     "name": "Similaridade",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "9 metros",
@@ -3685,7 +3685,7 @@
     "name": "Sonho",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 minuto",
     "range": "especial",
@@ -3980,7 +3980,7 @@
     "name": "Ilusão Programada",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "36 metros",
@@ -4293,7 +4293,7 @@
     "name": "Miragem",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "10 minutos",
     "range": "visão",
@@ -4333,7 +4333,7 @@
     "name": "Projetar Imagem",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "750 quilômetros",
@@ -4403,7 +4403,7 @@
     "name": "Simulacro",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "12 horas",
     "range": "toque",
@@ -4777,7 +4777,7 @@
     "name": "Encarnação Fantasmagórica",
     "school": {
       "pt": "Ilusão",
-      "style": "ilusion"
+      "style": "illusion"
     },
     "castingTime": "1 ação",
     "range": "36 metros",

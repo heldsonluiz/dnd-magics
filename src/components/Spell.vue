@@ -8,40 +8,39 @@
             {{ spell.name }}
             <span v-if="spell.ritual" class="grey--text subheading"> (ritual)</span>
           </div>
-          <v-avatar size="16" class="Spell__avatar">
-            <img :src="`./static/img/${spell.school.style}.png`">
+          <v-avatar size="16">
+            <img :src="`./static/img/schools/${spell.school.style}.png`">
           </v-avatar>
-          <span class="grey--text">{{ `${spell.school.pt.toLowerCase()}` }} {{ spell.level }}</span>
+          <span class="grey--text">Lvl {{ spell.level }}
+            de {{ `${spell.school.pt.toLowerCase()}` }} </span>
         </div>
       </v-card-title>
 
       <v-card-text class="py-0 px-2">
         <v-chip v-for="(item, id) in spell.classes"
           small :key='id' @click="doFilterClass(item)">
-          {{`${item}`}}
+          <span class="Spell__class">{{`${item}`}}</span>
         </v-chip>
       </v-card-text>
 
-      <v-slide-y-transition>
-        <v-card-text>
-          <ul class="pb-3 Spell__details">
-            <li>
-              <span class="font-weight-bold">Tempo De Conjuração: </span>{{spell.castingTime}}
-            </li>
-            <li>
-              <span class="font-weight-bold">Alcance: </span>{{spell.range}}
-            </li>
-            <li>
-              <span class="font-weight-bold">Componentes: </span>{{spell.components}}
-            </li>
-            <li>
-              <span class="font-weight-bold">Duração: </span>
-              {{spell.concentration?'concentração,' : ''}} até {{spell.duration}}
-            </li>
-          </ul>
-          <div class="Spells__resume" v-html="this.peep"></div>
-        </v-card-text>
-      </v-slide-y-transition>
+      <v-card-text>
+        <ul class="pb-3 Spell__details">
+          <li>
+            <span class="font-weight-bold">Tempo De Conjuração: </span>{{spell.castingTime}}
+          </li>
+          <li>
+            <span class="font-weight-bold">Alcance: </span>{{spell.range}}
+          </li>
+          <li>
+            <span class="font-weight-bold">Componentes: </span>{{spell.components}}
+          </li>
+          <li>
+            <span class="font-weight-bold">Duração: </span>
+            {{spell.concentration?'concentração,' : ''}} {{spell.duration}}
+          </li>
+        </ul>
+        <div class="Spells__resume" v-html="this.peep"></div>
+      </v-card-text>
 
       <div class="text-xs-center pb-3">
         <v-dialog v-model="show" width="500">
@@ -57,23 +56,33 @@
               <span v-if="spell.ritual" class="white--text subheading"> (ritual)</span>
             </v-card-title>
 
-            <v-card-text>
-              <ul class="pb-3 Spell__details">
+            <v-card-text class="px-2">
+              <v-chip v-for="(item, id) in spell.classes"
+                small :key='id' @click="doFilterClass(item)">
+                <span class="Spell__class">{{`${item}`}}</span>
+              </v-chip>
+              <ul class="py-3 Spell__details">
                 <li>
-                  <span class="font-weight-bold">Tempo De Conjuração: </span>{{spell.castingTime}}
+                  <strong>Nível: </strong>{{spell.level}}
                 </li>
                 <li>
-                  <span class="font-weight-bold">Alcance: </span>{{spell.range}}
+                  <strong>Escola: </strong>{{spell.school.pt}}
                 </li>
                 <li>
-                  <span class="font-weight-bold">Componentes: </span>{{spell.components}}
+                  <strong>Tempo De Conjuração: </strong>{{spell.castingTime}}
                 </li>
                 <li>
-                  <span class="font-weight-bold">Duração: </span>
-                  {{spell.concentration?'concentração,' : ''}} até {{spell.duration}}
+                  <strong>Alcance: </strong>{{spell.range}}
+                </li>
+                <li>
+                  <strong>Componentes: </strong>{{spell.components}}
+                </li>
+                <li>
+                  <strong>Duração: </strong>
+                  {{spell.concentration?'concentração,' : ''}} {{spell.duration}}
                 </li>
                 <li v-if="spell.material">
-                  <span class="font-weight-bold">Material: </span>{{spell.material}}
+                  <strong>Material: </strong>{{spell.material}}
                 </li>
               </ul>
               <span v-html="spell.description"></span>
@@ -121,6 +130,10 @@ export default {
 </script>
 
 <style scoped>
+
+.Spell__class {
+  cursor: pointer;
+}
 .Spell__details {
   list-style: none;
   margin: 0;
