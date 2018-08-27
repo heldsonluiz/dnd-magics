@@ -1,11 +1,14 @@
 <template>
   <div class="SpellList">
     <div class="text-xs-center">
-      <v-pagination
+      <v-pagination v-show="this.numOfPages > 1"
         v-model="pagination.currentPage"
         :length="this.numOfPages"
         :total-visible="7">
       </v-pagination>
+      <h2 v-show="this.numOfPages < 1">
+        Nenhuma magia encontrada
+      </h2>
     </div>
     <v-container grid-list-lg>
       <v-layout row wrap>
@@ -16,7 +19,7 @@
         </spell>
       </v-layout>
     </v-container>
-    <div class="text-xs-center">
+    <div class="text-xs-center" v-show="this.numOfPages > 1">
       <v-pagination
         v-model="pagination.currentPage"
         :length="this.numOfPages"
