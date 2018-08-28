@@ -13,6 +13,7 @@
     "deploy": "push-dir --dir=dist --branch=gh-pages"
   },
   "dependencies": {
+    "lodash": "^4.17.10",
     "vue": "^2.5.2",
     "vuetify": "^1.1.14"
   },

@@ -1,7 +1,7 @@
 <template>
   <div class="SpellList">
-    <div class="text-xs-center">
-      <v-pagination v-show="this.numOfPages > 1"
+    <div class="text-xs-center pb-3">
+      <v-pagination v-show="this.numOfPages >= 1"
         v-model="pagination.currentPage"
         :length="this.numOfPages"
         :total-visible="7">
@@ -19,8 +19,8 @@
         </spell>
       </v-layout>
     </v-container>
-    <div class="text-xs-center" v-show="this.numOfPages > 1">
-      <v-pagination
+    <div class="text-xs-center">
+      <v-pagination v-show="this.numOfPages >= 1"
         v-model="pagination.currentPage"
         :length="this.numOfPages"
         :total-visible="7">
@@ -44,7 +44,7 @@ export default {
       pagination: {
         currentPage: 1,
         perPage: 12,
-        perPageOptions: [12, 24, 36],
+        perPageOptions: [24, 36, 48],
       },
       spells: spellList,
       levels: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
