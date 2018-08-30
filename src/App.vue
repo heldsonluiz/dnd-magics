@@ -13,7 +13,7 @@
       <spell-list :filter="filter" @filterClass="doFilterClass" />
       <v-dialog v-model="show" width="500">
         <v-card>
-          <v-card-media src="/static/img/dnd-magic.jpg" height="200px"></v-card-media>
+          <v-card-media src="./static/img/dnd-magic.jpg" height="200px"></v-card-media>
           <v-card-title primary-title>
             <div>
               <h3 class="headline mb-0">Hail e Well Met!</h3>
@@ -21,11 +21,6 @@
                 <p>Este grimório foi escrito para facilitar a jornada daqueles inclinados a
                    desvendar a trama de magia de Dungeons
                   & Dragons.
-                </p>
-                <p>
-                  Foi escrito baseado nas instruções deixadas pelo clã
-                  <a href="https://pt-br.dnd5.spells.rpgist.net/spells">Rpgist</a>, a
-                   quem desejamos uma longa jornada.
                 </p>
               </div>
             </div>
