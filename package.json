@@ -10,7 +10,7 @@
     "lint": "eslint --ext .js,.vue src",
     "lint-fix": "eslint --ext .js,.vue src --fix",
     "build": "node build/build.js",
-    "deploy": "push-dir --dir=dist --branch=gh-pages"
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "lodash": "^4.17.10",
