@@ -14,7 +14,7 @@
       <v-layout row wrap>
         <spell
           v-for="(item, index) in computedSpells" :key=index
-          @filterClass="doFilterClass"
+          @filterClass="doFilterClass" @showSpell="doshowSpell"
           :spell="item">
         </spell>
       </v-layout>
@@ -25,6 +25,61 @@
         :length="this.numOfPages"
         :total-visible="7">
       </v-pagination>
+    </div>
+
+    <div class="text-xs-center">
+      <v-dialog v-model="show" width="500">
+        <v-card v-touch="{
+          left: () => swipe('left'), right: () => swipe('right')}">
+
+          <v-card-title class="headline"
+            :class="`${spell.school.style} white--text`" primary-title>
+            {{spell.name}}
+            <v-spacer></v-spacer>
+            <span v-if="spell.ritual" class="white--text subheading"> (ritual)</span>
+          </v-card-title>
+
+          <v-card-text class="px-3">
+            <v-chip v-for="(item, id) in spell.classes"
+              small :key='id' @click="doFilterClass(item)">
+              <span class="Spell__class">{{`${item}`}}</span>
+            </v-chip>
+            <ul class="py-3 Spell__details">
+              <li>
+                <strong>Nível: </strong>{{spell.level}}
+              </li>
+              <li>
+                <strong>Escola: </strong>{{spell.school.pt}}
+              </li>
+              <li>
+                <strong>Tempo De Conjuração: </strong>{{spell.castingTime}}
+              </li>
+              <li>
+                <strong>Alcance: </strong>{{spell.range}}
+              </li>
+              <li>
+                <strong>Componentes: </strong>{{spell.components}}
+              </li>
+              <li>
+                <strong>Duração: </strong>
+                {{spell.concentration?'concentração,' : ''}} {{spell.duration}}
+              </li>
+              <li v-if="spell.material">
+                <strong>Material: </strong>{{spell.material}}
+              </li>
+            </ul>
+            <span v-html="spell.description"></span>
+          </v-card-text>
+
+          <v-card-actions class="pb-3">
+            <v-flex class="text-xs-center">
+              <v-btn color="primary" outline @click="show = false">
+                Fechar
+              </v-btn>
+            </v-flex>
+          </v-card-actions>
+        </v-card>
+      </v-dialog>
     </div>
   </div>
 </template>
@@ -46,6 +101,8 @@ export default {
         perPage: 12,
         perPageOptions: [24, 36, 48],
       },
+      show: false,
+      spell: {},
       spells: spellList,
       levels: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
       classes: ['Bárbaro', 'Bardo', 'Bruxo', 'Clérigo', 'Druida', 'Feiticeiro', 'Guerreiro', 'Ladino', 'Mago', 'Monge', 'Paladino', 'Patrulheiro'],
@@ -60,9 +117,30 @@ export default {
       this.filter.class = value;
       this.$emit('filterClass', value);
     },
+
+    doshowSpell(spell) {
+      this.show = !this.show;
+      this.spell = spell;
+    },
+
     setPage(n) {
       this.pagination.currentPage = n;
     },
+
+    swipe(direction) {
+      let pos = this.computedSpells.findIndex(e =>
+        e.name.toLowerCase() === this.spell.name.toLowerCase());
+      if (direction === 'right' && pos < this.computedSpells.length - 1) {
+        debugger;
+        pos += 1;
+      } else if (direction === 'left' && pos > 0) {
+        pos -= 1;
+      }
+      this.spell = this.computedSpells[pos];
+    },
+  },
+  beforeMount() {
+    this.spell = this.computedSpells[0];
   },
   computed: {
     filteredList() {
