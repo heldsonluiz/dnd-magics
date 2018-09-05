@@ -7,6 +7,9 @@
             {{ spell.name }}
             <span v-if="spell.ritual" class="grey--text subheading"> (ritual)</span>
           </div>
+          <div>
+            <span class="grey--text caption">({{spell.name_en}})</span>
+          </div>
           <v-avatar size="16">
             <img :src="`./static/img/schools/${spell.school.style}.png`">
           </v-avatar>
@@ -38,10 +41,12 @@
         </ul>
         <div class="Spells__resume" v-html="this.peep"></div>
       </v-card-text>
-      <v-card-actions class="text-xs-center pb-3">
-        <v-btn slot="activator" color="info" @click="doshowSpell(spell)" class="caption">
-          descrição completa
-        </v-btn>
+      <v-card-actions>
+        <v-flex class="text-xs-center pb-3">
+          <v-btn slot="activator" color="info" @click="doshowSpell(spell)" class="caption">
+            descrição completa
+          </v-btn>
+        </v-flex>
       </v-card-actions>
     </v-card>
   </v-flex>

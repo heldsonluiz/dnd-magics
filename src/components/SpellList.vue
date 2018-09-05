@@ -33,10 +33,14 @@
           left: () => swipe('left'), right: () => swipe('right')}">
 
           <v-card-title class="headline"
-            :class="`${spell.school.style} white--text`" primary-title>
-            {{spell.name}}
+            :class="`${spell.school.style}--text`"
+            primary-title>
+            <div>
+              {{spell.name}}
+            </div>
             <v-spacer></v-spacer>
             <span v-if="spell.ritual" class="white--text subheading"> (ritual)</span>
+            <div class="grey--text caption">({{spell.name_en}})</div>
           </v-card-title>
 
           <v-card-text class="px-3">
@@ -99,7 +103,6 @@ export default {
       pagination: {
         currentPage: 1,
         perPage: 12,
-        perPageOptions: [24, 36, 48],
       },
       show: false,
       spell: {},
@@ -128,19 +131,24 @@ export default {
     },
 
     swipe(direction) {
-      let pos = this.computedSpells.findIndex(e =>
-        e.name.toLowerCase() === this.spell.name.toLowerCase());
-      if (direction === 'right' && pos < this.computedSpells.length - 1) {
-        debugger;
-        pos += 1;
-      } else if (direction === 'left' && pos > 0) {
-        pos -= 1;
+      let pos = this.filteredList.findIndex(e => e.id === this.spell.id);
+      let page = this.pagination.currentPage;
+      if (direction === 'left' && pos < this.filteredList.length - 1) {
+        pos++;
+        if (pos % this.pagination.perPage === 0) {
+          this.setPage(++page);
+        }
+      } else if (direction === 'right' && pos > 0) {
+        if (pos % this.pagination.perPage === 0) {
+          this.setPage(--page);
+        }
+        pos--;
       }
-      this.spell = this.computedSpells[pos];
+      this.spell = this.filteredList[pos];
     },
   },
   beforeMount() {
-    this.spell = this.computedSpells[0];
+    this.spell = this.filteredList[0];
   },
   computed: {
     filteredList() {
@@ -149,7 +157,8 @@ export default {
 
       if (!this.isEmpty(this.filter.name)) {
         list = spellList.filter(item =>
-          item.name.toLowerCase().includes(this.filter.name.toLowerCase()));
+          item.name.toLowerCase().includes(this.filter.name.toLowerCase()) ||
+          item.name_en.toLowerCase().includes(this.filter.name.toLowerCase()));
       }
 
       if (!this.isEmpty(this.filter.class)) {

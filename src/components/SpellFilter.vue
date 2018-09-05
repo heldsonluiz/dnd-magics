@@ -37,7 +37,7 @@ export default {
     },
   },
   created() {
-    this.debouncedGetName = _.debounce(this.getName, 250);
+    this.debouncedGetName = _.debounce(this.getName, 300);
   },
   methods: {
     getName() {
