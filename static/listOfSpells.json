@@ -1,7 +1,9 @@
 [
 	{
+		"id": 90,
 		"level": "2",
 		"name": "Acalmar Emoções",
+		"name_en": "Calm Emotions",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -18,8 +20,10 @@
 		]
 	},
 	{
+		"id": 198,
 		"level": "4",
 		"name": "Adivinhação",
+		"name_en": "Divination",
 		"ritual": "s",
 		"school": {
 			"pt": "Adivinhação",
@@ -36,8 +40,10 @@
 		]
 	},
 	{
+		"id": 91,
 		"level": "2",
 		"name": "Ajuda",
+		"name_en": "Aid",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -54,8 +60,10 @@
 		]
 	},
 	{
+		"id": 27,
 		"level": "1",
 		"name": "Alarme",
+		"name_en": "Alarm",
 		"ritual": "s",
 		"school": {
 			"pt": "Abjuração",
@@ -73,8 +81,10 @@
 		]
 	},
 	{
+		"id": 275,
 		"level": "6",
 		"name": "Aliado Planar",
+		"name_en": "Planar Ally",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -89,8 +99,10 @@
 		]
 	},
 	{
+		"id": 233,
 		"level": "5",
 		"name": "Aljava Veloz",
+		"name_en": "Swift Quiver",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -107,8 +119,10 @@
 		]
 	},
 	{
+		"id": 345,
 		"level": "9",
 		"name": "Alterar Forma",
+		"name_en": "Shapechange",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -126,8 +140,10 @@
 		]
 	},
 	{
+		"id": 92,
 		"level": "2",
 		"name": "Alterar-se",
+		"name_en": "Alter Self",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -144,8 +160,10 @@
 		]
 	},
 	{
+		"id": 0,
 		"level": "0",
 		"name": "Amizade",
+		"name_en": "Friends",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -165,8 +183,10 @@
 		]
 	},
 	{
+		"id": 28,
 		"level": "1",
 		"name": "Amizade Animal",
+		"name_en": "Animal Friendship",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -184,8 +204,10 @@
 		]
 	},
 	{
+		"id": 149,
 		"level": "3",
 		"name": "Ampliar Plantas",
+		"name_en": "Plant Growth",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -202,8 +224,10 @@
 		]
 	},
 	{
+		"id": 234,
 		"level": "5",
 		"name": "Âncora Planar",
+		"name_en": "Planar Binding",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -222,8 +246,10 @@
 		]
 	},
 	{
+		"id": 150,
 		"level": "3",
 		"name": "Andar Na Água",
+		"name_en": "Water Walk",
 		"ritual": "s",
 		"school": {
 			"pt": "Transmutação",
@@ -243,8 +269,10 @@
 		]
 	},
 	{
+		"id": 151,
 		"level": "3",
 		"name": "Animar Mortos",
+		"name_en": "Animate Dead",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -261,8 +289,10 @@
 		]
 	},
 	{
+		"id": 235,
 		"level": "5",
 		"name": "Animar Objetos",
+		"name_en": "Animate Objects",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -280,8 +310,10 @@
 		]
 	},
 	{
+		"id": 327,
 		"level": "8",
 		"name": "Antipatia/Simpatia",
+		"name_en": "Antipathy/Sympathy",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -298,8 +330,10 @@
 		]
 	},
 	{
+		"id": 93,
 		"level": "2",
 		"name": "Aprimorar Habilidade",
+		"name_en": "Enhance Ability",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -319,8 +353,10 @@
 		]
 	},
 	{
+		"id": 346,
 		"level": "9",
 		"name": "Aprisionamento",
+		"name_en": "Imprisionment",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -337,8 +373,10 @@
 		]
 	},
 	{
+		"id": 199,
 		"level": "4",
 		"name": "Arca Secreta de Leomund",
+		"name_en": "Leomund's Secret Chest",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -354,8 +392,10 @@
 		]
 	},
 	{
+		"id": 29,
 		"level": "1",
 		"name": "Área Escorregadia",
+		"name_en": "Grease",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -371,8 +411,10 @@
 		]
 	},
 	{
+		"id": 152,
 		"level": "3",
 		"name": "Arma Elemental",
+		"name_en": "Elemental Weapon",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -388,8 +430,10 @@
 		]
 	},
 	{
+		"id": 94,
 		"level": "2",
 		"name": "Arma Espiritual",
+		"name_en": "Spiritual Weapon",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -404,8 +448,10 @@
 		]
 	},
 	{
+		"id": 95,
 		"level": "2",
 		"name": "Arma Mágica",
+		"name_en": "Magic Weapon",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -422,8 +468,10 @@
 		]
 	},
 	{
+		"id": 30,
 		"level": "1",
 		"name": "Armadura Arcana",
+		"name_en": "Mage Armor",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -440,8 +488,10 @@
 		]
 	},
 	{
+		"id": 31,
 		"level": "1",
 		"name": "Armadura de Agathys",
+		"name_en": "Armor of Agathys",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -457,8 +507,10 @@
 		]
 	},
 	{
+		"id": 96,
 		"level": "2",
 		"name": "Arrombar",
+		"name_en": "Knock",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -475,8 +527,10 @@
 		]
 	},
 	{
+		"id": 200,
 		"level": "4",
 		"name": "Assassino Fantasmagórico",
+		"name_en": "Phantasmal Killer",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -492,8 +546,10 @@
 		]
 	},
 	{
+		"id": 1,
 		"level": "0",
 		"name": "Ataque Certeiro",
+		"name_en": "True Strike",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -512,8 +568,10 @@
 		]
 	},
 	{
+		"id": 276,
 		"level": "6",
 		"name": "Ataque Visual",
+		"name_en": "Eyebite",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -532,8 +590,10 @@
 		]
 	},
 	{
+		"id": 97,
 		"level": "2",
 		"name": "Augúrio",
+		"name_en": "Augury",
 		"ritual": "s",
 		"school": {
 			"pt": "Adivinhação",
@@ -550,8 +610,10 @@
 		]
 	},
 	{
+		"id": 98,
 		"level": "2",
 		"name": "Aumentar/Reduzir",
+		"name_en": "Enlarge/Reduce",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -569,8 +631,10 @@
 		]
 	},
 	{
+		"id": 201,
 		"level": "4",
 		"name": "Aura de Pureza",
+		"name_en": "Aura Of Purity",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -586,8 +650,10 @@
 		]
 	},
 	{
+		"id": 202,
 		"level": "4",
 		"name": "Aura de Vida",
+		"name_en": "Aura Of Life",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -603,8 +669,10 @@
 		]
 	},
 	{
+		"id": 153,
 		"level": "3",
 		"name": "Aura de Vitalidade",
+		"name_en": "Aura Of Vitality",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -620,8 +688,10 @@
 		]
 	},
 	{
+		"id": 99,
 		"level": "2",
 		"name": "Aura Mágica de Nystul",
+		"name_en": "Nystul's Magic Aura",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -637,8 +707,10 @@
 		]
 	},
 	{
+		"id": 328,
 		"level": "8",
 		"name": "Aura Sagrada",
+		"name_en": "Holy Aura",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -655,8 +727,10 @@
 		]
 	},
 	{
+		"id": 32,
 		"level": "1",
 		"name": "Auxílio Divino",
+		"name_en": "Divine Favor",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -672,8 +746,10 @@
 		]
 	},
 	{
+		"id": 203,
 		"level": "4",
 		"name": "Banimento",
+		"name_en": "Banishment",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -694,8 +770,10 @@
 		]
 	},
 	{
+		"id": 277,
 		"level": "6",
 		"name": "Banquete dos Heróis",
+		"name_en": "Heroes' Feast",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -711,8 +789,10 @@
 		]
 	},
 	{
+		"id": 278,
 		"level": "6",
 		"name": "Barreira de Lâminas",
+		"name_en": "Blade Barrier",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -728,8 +808,10 @@
 		]
 	},
 	{
+		"id": 33,
 		"level": "1",
 		"name": "Bênção",
+		"name_en": "Bless",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -747,8 +829,10 @@
 		]
 	},
 	{
+		"id": 100,
 		"level": "2",
 		"name": "Boca Encantada",
+		"name_en": "Magic Mouth",
 		"ritual": "s",
 		"school": {
 			"pt": "Ilusão",
@@ -766,8 +850,10 @@
 		]
 	},
 	{
+		"id": 154,
 		"level": "3",
 		"name": "Bola de Fogo",
+		"name_en": "Fireball",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -784,8 +870,10 @@
 		]
 	},
 	{
+		"id": 307,
 		"level": "7",
 		"name": "Bola de Fogo Controlável",
+		"name_en": "Delayed Blast Fireball",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -803,8 +891,10 @@
 		]
 	},
 	{
+		"id": 34,
 		"level": "1",
 		"name": "Bom Fruto",
+		"name_en": "Goodberry",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -821,8 +911,10 @@
 		]
 	},
 	{
+		"id": 2,
 		"level": "0",
 		"name": "Bordão Místico",
+		"name_en": "Shillelagh",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -838,8 +930,10 @@
 		]
 	},
 	{
+		"id": 35,
 		"level": "1",
 		"name": "Braços de Hadar",
+		"name_en": "Arms of Hadar",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -854,8 +948,10 @@
 		]
 	},
 	{
+		"id": 36,
 		"level": "1",
 		"name": "Bruxaria",
+		"name_en": "Hex",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -872,8 +968,10 @@
 		]
 	},
 	{
+		"id": 236,
 		"level": "5",
 		"name": "Caminhar Em Árvores",
+		"name_en": "Tree Stride",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -890,8 +988,10 @@
 		]
 	},
 	{
+		"id": 279,
 		"level": "6",
 		"name": "Caminhar No Vento",
+		"name_en": "Wind Walk",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -907,8 +1007,10 @@
 		]
 	},
 	{
+		"id": 329,
 		"level": "8",
 		"name": "Campo Antimagia",
+		"name_en": "Antimagic Field",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -926,8 +1028,10 @@
 		]
 	},
 	{
+		"id": 204,
 		"level": "4",
 		"name": "Cão Fiel de Mordenkainen",
+		"name_en": "Mordenkainen's Faithful Hound",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -943,8 +1047,10 @@
 		]
 	},
 	{
+		"id": 280,
 		"level": "6",
 		"name": "Carne Para Pedra",
+		"name_en": "Flesh To Stone",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -962,8 +1068,10 @@
 		]
 	},
 	{
+		"id": 101,
 		"level": "2",
 		"name": "Cativar",
+		"name_en": "Enthrall",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -979,8 +1087,10 @@
 		]
 	},
 	{
+		"id": 102,
 		"level": "2",
 		"name": "Cegueira/Surdez",
+		"name_en": "Blindness/Deafness",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -998,8 +1108,10 @@
 		]
 	},
 	{
+		"id": 103,
 		"level": "2",
 		"name": "Chama Contínua",
+		"name_en": "Continual Flame",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -1016,8 +1128,10 @@
 		]
 	},
 	{
+		"id": 3,
 		"level": "0",
 		"name": "Chama Sagrada",
+		"name_en": "Sacred Flames",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -1032,8 +1146,10 @@
 		]
 	},
 	{
+		"id": 4,
 		"level": "0",
 		"name": "Chicote de Espinhos",
+		"name_en": "Torn Whip",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -1049,8 +1165,10 @@
 		]
 	},
 	{
+		"id": 347,
 		"level": "9",
 		"name": "Chuva de Meteoros",
+		"name_en": "Meteor Swarm",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -1066,8 +1184,10 @@
 		]
 	},
 	{
+		"id": 281,
 		"level": "6",
 		"name": "Círculo da Morte",
+		"name_en": "Circle Of Death",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -1085,8 +1205,10 @@
 		]
 	},
 	{
+		"id": 237,
 		"level": "5",
 		"name": "Círculo de Poder",
+		"name_en": "Circle Of Power",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -1102,8 +1224,10 @@
 		]
 	},
 	{
+		"id": 238,
 		"level": "5",
 		"name": "Círculo de Teletransporte",
+		"name_en": "Teleportation Circle",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1121,8 +1245,10 @@
 		]
 	},
 	{
+		"id": 155,
 		"level": "3",
 		"name": "Círculo Mágico",
+		"name_en": "Magic Circle",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -1141,8 +1267,10 @@
 		]
 	},
 	{
+		"id": 156,
 		"level": "3",
 		"name": "Clarividência",
+		"name_en": "Clairvoyance",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -1162,8 +1290,10 @@
 		]
 	},
 	{
+		"id": 330,
 		"level": "8",
 		"name": "Clone",
+		"name_en": "Clone",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -1179,8 +1309,10 @@
 		]
 	},
 	{
+		"id": 239,
 		"level": "5",
 		"name": "Coluna de Chamas",
+		"name_en": "Flame Strike",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -1196,8 +1328,10 @@
 		]
 	},
 	{
+		"id": 37,
 		"level": "1",
 		"name": "Comando",
+		"name_en": "Command",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -1213,8 +1347,10 @@
 		]
 	},
 	{
+		"id": 38,
 		"level": "1",
 		"name": "Compreender Idiomas",
+		"name_en": "Comprehend Languages",
 		"ritual": "s",
 		"school": {
 			"pt": "Adivinhação",
@@ -1234,8 +1370,10 @@
 		]
 	},
 	{
+		"id": 205,
 		"level": "4",
 		"name": "Compulsão",
+		"name_en": "Compulsion",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -1251,8 +1389,10 @@
 		]
 	},
 	{
+		"id": 240,
 		"level": "5",
 		"name": "Comunhão",
+		"name_en": "Commune",
 		"ritual": "s",
 		"school": {
 			"pt": "Adivinhação",
@@ -1269,8 +1409,10 @@
 		]
 	},
 	{
+		"id": 241,
 		"level": "5",
 		"name": "Comunhão com a Natureza",
+		"name_en": "Commune With Nature",
 		"ritual": "s",
 		"school": {
 			"pt": "Adivinhação",
@@ -1287,8 +1429,10 @@
 		]
 	},
 	{
+		"id": 242,
 		"level": "5",
 		"name": "Cone de Frio",
+		"name_en": "Cone Of Cold",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -1305,8 +1449,10 @@
 		]
 	},
 	{
+		"id": 206,
 		"level": "4",
 		"name": "Confusão",
+		"name_en": "Confusion",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -1326,8 +1472,10 @@
 		]
 	},
 	{
+		"id": 243,
 		"level": "5",
 		"name": "Conhecimento Lendário",
+		"name_en": "Legend Lore",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -1345,8 +1493,10 @@
 		]
 	},
 	{
+		"id": 157,
 		"level": "3",
 		"name": "Conjurar Animais",
+		"name_en": "Conjure Animals",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1363,8 +1513,10 @@
 		]
 	},
 	{
+		"id": 308,
 		"level": "7",
 		"name": "Conjurar Celestial",
+		"name_en": "Conjure Celestial",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1380,8 +1532,10 @@
 		]
 	},
 	{
+		"id": 207,
 		"level": "4",
 		"name": "Conjurar Elementais Menores",
+		"name_en": "Conjure Minor Elementals",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1398,8 +1552,10 @@
 		]
 	},
 	{
+		"id": 244,
 		"level": "5",
 		"name": "Conjurar Elemental",
+		"name_en": "Conjure Elemntal",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1417,8 +1573,10 @@
 		]
 	},
 	{
+		"id": 282,
 		"level": "6",
 		"name": "Conjurar Fada",
+		"name_en": "Conjure Fey",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1435,8 +1593,10 @@
 		]
 	},
 	{
+		"id": 158,
 		"level": "3",
 		"name": "Conjurar Rajada",
+		"name_en": "Conjure Barrage",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1452,8 +1612,10 @@
 		]
 	},
 	{
+		"id": 245,
 		"level": "5",
 		"name": "Conjurar Saraivada",
+		"name_en": "Conjure Volley",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1469,8 +1631,10 @@
 		]
 	},
 	{
+		"id": 208,
 		"level": "4",
 		"name": "Conjurar Seres da Floresta",
+		"name_en": "Conjure Woodland Beings",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1488,8 +1652,10 @@
 		]
 	},
 	{
+		"id": 246,
 		"level": "5",
 		"name": "Consagrar",
+		"name_en": "Hallow",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -1505,8 +1671,10 @@
 		]
 	},
 	{
+		"id": 5,
 		"level": "0",
 		"name": "Consertar",
+		"name_en": "Mending",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -1526,8 +1694,10 @@
 		]
 	},
 	{
+		"id": 39,
 		"level": "1",
 		"name": "Constrição",
+		"name_en": "Entangle",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1543,8 +1713,10 @@
 		]
 	},
 	{
+		"id": 247,
 		"level": "5",
 		"name": "Contato Extraplanar",
+		"name_en": "Contact Other Plane",
 		"ritual": "s",
 		"school": {
 			"pt": "Adivinhação",
@@ -1561,8 +1733,10 @@
 		]
 	},
 	{
+		"id": 283,
 		"level": "6",
 		"name": "Contingência",
+		"name_en": "Contingency",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -1578,8 +1752,10 @@
 		]
 	},
 	{
+		"id": 159,
 		"level": "3",
 		"name": "Contramágica",
+		"name_en": "Counterspell",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -1597,8 +1773,10 @@
 		]
 	},
 	{
+		"id": 209,
 		"level": "4",
 		"name": "Controlar a Água",
+		"name_en": "Control Water",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -1617,8 +1795,10 @@
 		]
 	},
 	{
+		"id": 331,
 		"level": "8",
 		"name": "Controlar o Clima",
+		"name_en": "Control Weather",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -1637,8 +1817,10 @@
 		]
 	},
 	{
+		"id": 40,
 		"level": "1",
 		"name": "Convocar Familiar",
+		"name_en": "Find Familiar",
 		"ritual": "s",
 		"school": {
 			"pt": "Conjuração",
@@ -1655,8 +1837,10 @@
 		]
 	},
 	{
+		"id": 104,
 		"level": "2",
 		"name": "Convocar Montaria",
+		"name_en": "Find Steed",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1671,8 +1855,10 @@
 		]
 	},
 	{
+		"id": 160,
 		"level": "3",
 		"name": "Convocar Relâmpagos",
+		"name_en": "Call Lightning",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1688,8 +1874,10 @@
 		]
 	},
 	{
+		"id": 106,
 		"level": "2",
 		"name": "Cordão de Flechas",
+		"name_en": "Cordon Of Arrows",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -1705,8 +1893,10 @@
 		]
 	},
 	{
+		"id": 105,
 		"level": "2",
 		"name": "Coroa da Loucura",
+		"name_en": "Crown Of Madness",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -1725,8 +1915,10 @@
 		]
 	},
 	{
+		"id": 284,
 		"level": "6",
 		"name": "Corrente de Relâmpagos",
+		"name_en": "Chain Lightning",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -1743,8 +1935,10 @@
 		]
 	},
 	{
+		"id": 107,
 		"level": "2",
 		"name": "Crescer Espinhos",
+		"name_en": "Spike Growth",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -1762,8 +1956,10 @@
 		]
 	},
 	{
+		"id": 248,
 		"level": "5",
 		"name": "Criação",
+		"name_en": "Creation",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -1780,8 +1976,10 @@
 		]
 	},
 	{
+		"id": 161,
 		"level": "3",
 		"name": "Criar Alimentos",
+		"name_en": "Create Food And Water",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1797,8 +1995,10 @@
 		]
 	},
 	{
+		"id": 6,
 		"level": "0",
 		"name": "Criar Chamas",
+		"name_en": "Produce Flames",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -1813,8 +2013,10 @@
 		]
 	},
 	{
+		"id": 285,
 		"level": "6",
 		"name": "Criar Mortos-Vivos",
+		"name_en": "Create Undead",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -1832,8 +2034,10 @@
 		]
 	},
 	{
+		"id": 41,
 		"level": "1",
 		"name": "Criar ou Destruir Água",
+		"name_en": "Create Or Destroy Water",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -1850,8 +2054,10 @@
 		]
 	},
 	{
+		"id": 249,
 		"level": "5",
 		"name": "Criar Passagem",
+		"name_en": "Passwall",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -1867,8 +2073,10 @@
 		]
 	},
 	{
+		"id": 250,
 		"level": "5",
 		"name": "Cúpula Antivida",
+		"name_en": "Antilife Shell",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -1884,8 +2092,10 @@
 		]
 	},
 	{
+		"id": 286,
 		"level": "6",
 		"name": "Cura Completa",
+		"name_en": "Heal",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -1901,8 +2111,10 @@
 		]
 	},
 	{
+		"id": 348,
 		"level": "9",
 		"name": "Cura Completa Em Massa",
+		"name_en": "Mass Heal",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -1917,8 +2129,10 @@
 		]
 	},
 	{
+		"id": 42,
 		"level": "1",
 		"name": "Curar Ferimentos",
+		"name_en": "Cure Wounds",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -1937,8 +2151,10 @@
 		]
 	},
 	{
+		"id": 251,
 		"level": "5",
 		"name": "Curar Ferimentos Em Massa",
+		"name_en": "Mass Cure Wounds",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -1955,8 +2171,10 @@
 		]
 	},
 	{
+		"id": 287,
 		"level": "6",
 		"name": "Dança Irresistível de Otto",
+		"name_en": "Otto's Irresistable Dance",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -1973,8 +2191,10 @@
 		]
 	},
 	{
+		"id": 309,
 		"level": "7",
 		"name": "Dedo da Morte",
+		"name_en": "Finger Of Death",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -1991,8 +2211,10 @@
 		]
 	},
 	{
+		"id": 349,
 		"level": "9",
 		"name": "Desejo",
+		"name_en": "Wish",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -2008,8 +2230,10 @@
 		]
 	},
 	{
+		"id": 288,
 		"level": "6",
 		"name": "Desintegrar",
+		"name_en": "Disintegrate",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -2026,8 +2250,10 @@
 		]
 	},
 	{
+		"id": 108,
 		"level": "2",
 		"name": "Despedaçar",
+		"name_en": "Shatter",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2046,8 +2272,10 @@
 		]
 	},
 	{
+		"id": 252,
 		"level": "5",
 		"name": "Despertar",
+		"name_en": "Awaken",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -2064,8 +2292,10 @@
 		]
 	},
 	{
+		"id": 253,
 		"level": "5",
 		"name": "Despistar",
+		"name_en": "Mislead",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -2082,8 +2312,10 @@
 		]
 	},
 	{
+		"id": 254,
 		"level": "5",
 		"name": "Destruição Banidora",
+		"name_en": "Banishing Smite",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -2099,8 +2331,10 @@
 		]
 	},
 	{
+		"id": 162,
 		"level": "3",
 		"name": "Destruição Cegante",
+		"name_en": "Blinding Smite",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2116,8 +2350,10 @@
 		]
 	},
 	{
+		"id": 43,
 		"level": "1",
 		"name": "Destruição Colérica",
+		"name_en": "Wrathful Smite",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2133,8 +2369,10 @@
 		]
 	},
 	{
+		"id": 210,
 		"level": "4",
 		"name": "Destruição Estonteante",
+		"name_en": "Staggering Smite",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2150,8 +2388,10 @@
 		]
 	},
 	{
+		"id": 44,
 		"level": "1",
 		"name": "Destruição Lancinante",
+		"name_en": "Searing Smite",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2167,8 +2407,10 @@
 		]
 	},
 	{
+		"id": 45,
 		"level": "1",
 		"name": "Destruição Trovejante",
+		"name_en": "Thunderous Smite",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2184,8 +2426,10 @@
 		]
 	},
 	{
+		"id": 47,
 		"level": "1",
 		"name": "Detectar Magia",
+		"name_en": "Detect Magic",
 		"ritual": "s",
 		"school": {
 			"pt": "Adivinhação",
@@ -2208,8 +2452,10 @@
 		]
 	},
 	{
+		"id": 46,
 		"level": "1",
 		"name": "Detectar o Bem e Mal",
+		"name_en": "Detect Evil And Good",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -2226,8 +2472,10 @@
 		]
 	},
 	{
+		"id": 109,
 		"level": "2",
 		"name": "Detectar Pensamentos",
+		"name_en": "Detect Thoughts",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -2246,8 +2494,10 @@
 		]
 	},
 	{
+		"id": 48,
 		"level": "1",
 		"name": "Detectar Veneno e Doença",
+		"name_en": "Detect Poision and Disease",
 		"ritual": "s",
 		"school": {
 			"pt": "Adivinhação",
@@ -2268,8 +2518,10 @@
 		]
 	},
 	{
+		"id": 163,
 		"level": "3",
 		"name": "Dificultar Detecção",
+		"name_en": "Nondetection",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -2287,8 +2539,10 @@
 		]
 	},
 	{
+		"id": 49,
 		"level": "1",
 		"name": "Disco Flutuante de Tenser",
+		"name_en": "Tenser's Floating Disk",
 		"ritual": "s",
 		"school": {
 			"pt": "Conjuração",
@@ -2305,8 +2559,10 @@
 		]
 	},
 	{
+		"id": 50,
 		"level": "1",
 		"name": "Disfarçar-se",
+		"name_en": "Disguise Self",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -2323,8 +2579,10 @@
 		]
 	},
 	{
+		"id": 164,
 		"level": "3",
 		"name": "Dissipar Magia",
+		"name_en": "Dispel Magic",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -2345,8 +2603,10 @@
 		]
 	},
 	{
+		"id": 255,
 		"level": "5",
 		"name": "Dissipar o Bem e Mal",
+		"name_en": "Dispel Evil And Good",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -2364,8 +2624,10 @@
 		]
 	},
 	{
+		"id": 289,
 		"level": "6",
 		"name": "Doença Plena",
+		"name_en": "Harm",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -2380,8 +2642,10 @@
 		]
 	},
 	{
+		"id": 211,
 		"level": "4",
 		"name": "Dominar Besta",
+		"name_en": "Dominate Beast",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -2398,8 +2662,10 @@
 		]
 	},
 	{
+		"id": 332,
 		"level": "8",
 		"name": "Dominar Monstro",
+		"name_en": "Dominate Monster",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -2418,8 +2684,10 @@
 		]
 	},
 	{
+		"id": 256,
 		"level": "5",
 		"name": "Dominar Pessoa",
+		"name_en": "Dominate Person",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -2437,8 +2705,10 @@
 		]
 	},
 	{
+		"id": 7,
 		"level": "0",
 		"name": "Druidismo",
+		"name_en": "Druidcraft",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -2453,8 +2723,10 @@
 		]
 	},
 	{
+		"id": 51,
 		"level": "1",
 		"name": "Duelo Compelido",
+		"name_en": "Compelled Duel",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -2470,8 +2742,10 @@
 		]
 	},
 	{
+		"id": 350,
 		"level": "9",
 		"name": "Encarnação Fantasmagórica",
+		"name_en": "Weird",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -2487,8 +2761,10 @@
 		]
 	},
 	{
+		"id": 110,
 		"level": "2",
 		"name": "Encontrar Armadilhas",
+		"name_en": "Find Traps",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -2505,8 +2781,10 @@
 		]
 	},
 	{
+		"id": 290,
 		"level": "6",
 		"name": "Encontrar o Caminho",
+		"name_en": "Find The Path",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -2525,8 +2803,10 @@
 		]
 	},
 	{
+		"id": 52,
 		"level": "1",
 		"name": "Enfeitiçar Pessoa",
+		"name_en": "Charm Person",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -2545,8 +2825,10 @@
 		]
 	},
 	{
+		"id": 333,
 		"level": "8",
 		"name": "Enfraquecer Intelecto",
+		"name_en": "Feebiemind",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -2562,8 +2844,10 @@
 		]
 	},
 	{
+		"id": 165,
 		"level": "3",
 		"name": "Enviar Mensagem",
+		"name_en": "Sending",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2581,8 +2865,10 @@
 		]
 	},
 	{
+		"id": 53,
 		"level": "1",
 		"name": "Escrita Ilusória",
+		"name_en": "Illusory Script",
 		"ritual": "s",
 		"school": {
 			"pt": "Ilusão",
@@ -2601,8 +2887,10 @@
 		]
 	},
 	{
+		"id": 54,
 		"level": "1",
 		"name": "Escudo Arcano",
+		"name_en": "Shield",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -2619,8 +2907,10 @@
 		]
 	},
 	{
+		"id": 55,
 		"level": "1",
 		"name": "Escudo da Fé",
+		"name_en": "Shield Of Faith",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -2638,8 +2928,10 @@
 		]
 	},
 	{
+		"id": 212,
 		"level": "4",
 		"name": "Escudo de Fogo",
+		"name_en": "Fire Shield",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2655,8 +2947,10 @@
 		]
 	},
 	{
+		"id": 111,
 		"level": "2",
 		"name": "Escuridão",
+		"name_en": "Darkness",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2675,8 +2969,10 @@
 		]
 	},
 	{
+		"id": 291,
 		"level": "6",
 		"name": "Esfera Congelante de Otiluke",
+		"name_en": "Otiluke's Freezing Sphere",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2692,8 +2988,10 @@
 		]
 	},
 	{
+		"id": 112,
 		"level": "2",
 		"name": "Esfera Flamejante",
+		"name_en": "Flaming Sphere",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -2711,8 +3009,10 @@
 		]
 	},
 	{
+		"id": 213,
 		"level": "4",
 		"name": "Esfera Resiliente de Otiluke",
+		"name_en": "Otiuke's Resilient Sphere",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2729,8 +3029,10 @@
 		]
 	},
 	{
+		"id": 310,
 		"level": "7",
 		"name": "Espada de Mordenkainen",
+		"name_en": "Mordenkainen's Sword",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2748,8 +3050,10 @@
 		]
 	},
 	{
+		"id": 166,
 		"level": "3",
 		"name": "Espíritos Guardiões",
+		"name_en": "Spirit Guardians",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -2766,8 +3070,10 @@
 		]
 	},
 	{
+		"id": 8,
 		"level": "0",
 		"name": "Espirro Ácido",
+		"name_en": "Acid Splash",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -2783,8 +3089,10 @@
 		]
 	},
 	{
+		"id": 113,
 		"level": "2",
 		"name": "Esquentar Metal",
+		"name_en": "Heat Metal",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -2802,8 +3110,10 @@
 		]
 	},
 	{
+		"id": 9,
 		"level": "0",
 		"name": "Estabilizar",
+		"name_en": "Spare The Dying",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -2818,8 +3128,10 @@
 		]
 	},
 	{
+		"id": 334,
 		"level": "8",
 		"name": "Explosão Solar",
+		"name_en": "Sunburst",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2837,8 +3149,10 @@
 		]
 	},
 	{
+		"id": 214,
 		"level": "4",
 		"name": "Fabricar",
+		"name_en": "Fabricate",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -2853,8 +3167,10 @@
 		]
 	},
 	{
+		"id": 56,
 		"level": "1",
 		"name": "Falar com Animais",
+		"name_en": "Speak With Animals",
 		"ritual": "s",
 		"school": {
 			"pt": "Adivinhação",
@@ -2872,8 +3188,10 @@
 		]
 	},
 	{
+		"id": 167,
 		"level": "3",
 		"name": "Falar com Os Mortos",
+		"name_en": "Speak With Dead",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -2890,12 +3208,14 @@
 		]
 	},
 	{
+		"id": 57,
 		"level": "3",
 		"name": "Falar com Plantas",
+		"name_en": "Speak With Plants",
 		"ritual": "s",
 		"school": {
-			"pt": "Adivinhação",
-			"style": "divination"
+			"pt": "Transmutação",
+			"style": "transmutation"
 		},
 		"castingTime": "1 ação",
 		"range": "pessoal",
@@ -2909,8 +3229,10 @@
 		]
 	},
 	{
+		"id": 114,
 		"level": "2",
 		"name": "Flecha Ácida de Melf",
+		"name_en": "Melf's Acid Arrow",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2926,8 +3248,10 @@
 		]
 	},
 	{
+		"id": 168,
 		"level": "3",
 		"name": "Flecha Relampejante",
+		"name_en": "Lightning Arrow",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -2943,8 +3267,10 @@
 		]
 	},
 	{
+		"id": 58,
 		"level": "1",
 		"name": "Fogo das Fadas",
+		"name_en": "Faerie Fire",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -2961,8 +3287,10 @@
 		]
 	},
 	{
+		"id": 169,
 		"level": "3",
 		"name": "Fome de Hadar",
+		"name_en": "Hunger Of Hadar",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -2979,8 +3307,10 @@
 		]
 	},
 	{
+		"id": 115,
 		"level": "2",
 		"name": "Força Fantasmagórica",
+		"name_en": "Phantasmal Force",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -2999,8 +3329,10 @@
 		]
 	},
 	{
+		"id": 170,
 		"level": "3",
 		"name": "Forjar Morte",
+		"name_en": "Feign Death",
 		"ritual": "s",
 		"school": {
 			"pt": "Necromancia",
@@ -3020,8 +3352,10 @@
 		]
 	},
 	{
+		"id": 311,
 		"level": "7",
 		"name": "Forma Etérea",
+		"name_en": "Etherealness",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -3040,8 +3374,10 @@
 		]
 	},
 	{
+		"id": 171,
 		"level": "3",
 		"name": "Forma Gasosa",
+		"name_en": "Gaseous Form",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -3060,8 +3396,10 @@
 		]
 	},
 	{
+		"id": 335,
 		"level": "8",
 		"name": "Formas Animais",
+		"name_en": "Animal Shapes",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -3077,8 +3415,10 @@
 		]
 	},
 	{
+		"id": 172,
 		"level": "3",
 		"name": "Glifo de Vigilância",
+		"name_en": "Glyph Of Warding",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -3096,8 +3436,10 @@
 		]
 	},
 	{
+		"id": 292,
 		"level": "6",
 		"name": "Globo de Invulnerabilidade",
+		"name_en": "Globe Of Invunerability",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -3115,8 +3457,10 @@
 		]
 	},
 	{
+		"id": 10,
 		"level": "0",
 		"name": "Globos de Luz",
+		"name_en": "Dancing Lights",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -3135,8 +3479,10 @@
 		]
 	},
 	{
+		"id": 59,
 		"level": "1",
 		"name": "Golpe Constritor",
+		"name_en": "Ensnaring Strike",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -3152,8 +3498,10 @@
 		]
 	},
 	{
+		"id": 215,
 		"level": "4",
 		"name": "Guardião da Fé",
+		"name_en": "Guardian of Faith",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -3168,8 +3516,10 @@
 		]
 	},
 	{
+		"id": 60,
 		"level": "1",
 		"name": "Heroísmo",
+		"name_en": "Heroism",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -3186,8 +3536,10 @@
 		]
 	},
 	{
+		"id": 61,
 		"level": "1",
 		"name": "Identificação",
+		"name_en": "Identify",
 		"ritual": "s",
 		"school": {
 			"pt": "Adivinhação",
@@ -3205,8 +3557,10 @@
 		]
 	},
 	{
+		"id": 173,
 		"level": "3",
 		"name": "Idiomas",
+		"name_en": "Tongues",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -3226,8 +3580,10 @@
 		]
 	},
 	{
+		"id": 11,
 		"level": "0",
 		"name": "Ilusão Menor",
+		"name_en": "Minor Illusion",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -3246,8 +3602,10 @@
 		]
 	},
 	{
+		"id": 293,
 		"level": "6",
 		"name": "Ilusão Programada",
+		"name_en": "Programmed Illusion",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -3264,8 +3622,10 @@
 		]
 	},
 	{
+		"id": 174,
 		"level": "3",
 		"name": "Imagem Maior",
+		"name_en": "Major Image",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -3285,8 +3645,10 @@
 		]
 	},
 	{
+		"id": 62,
 		"level": "1",
 		"name": "Imagem Silenciosa",
+		"name_en": "Silent Image",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -3305,8 +3667,10 @@
 		]
 	},
 	{
+		"id": 257,
 		"level": "5",
 		"name": "Imobilizar Monstro",
+		"name_en": "Hold Monster",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -3326,8 +3690,10 @@
 		]
 	},
 	{
+		"id": 116,
 		"level": "2",
 		"name": "Imobilizar Pessoa",
+		"name_en": "Hold Person",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -3349,8 +3715,10 @@
 		]
 	},
 	{
+		"id": 63,
 		"level": "1",
 		"name": "Infligir Ferimentos",
+		"name_en": "Inflict Wounds",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -3363,8 +3731,10 @@
 		"classes": []
 	},
 	{
+		"id": 216,
 		"level": "4",
 		"name": "Inseto Gigante",
+		"name_en": "Giant Insect",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -3380,8 +3750,10 @@
 		]
 	},
 	{
+		"id": 312,
 		"level": "7",
 		"name": "Inverter a Gravidade",
+		"name_en": "Reverse Gravity",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -3400,8 +3772,10 @@
 		]
 	},
 	{
+		"id": 117,
 		"level": "2",
 		"name": "Invisibilidade",
+		"name_en": "Invisibility",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -3421,8 +3795,10 @@
 		]
 	},
 	{
+		"id": 217,
 		"level": "4",
 		"name": "Invisibilidade Maior",
+		"name_en": "Greater Invisibility",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -3440,8 +3816,10 @@
 		]
 	},
 	{
+		"id": 294,
 		"level": "6",
 		"name": "Invocação Instantânea de Drawmij",
+		"name_en": "Drawmij's Instant Summons",
 		"ritual": "s",
 		"school": {
 			"pt": "Conjuração",
@@ -3458,8 +3836,10 @@
 		]
 	},
 	{
+		"id": 313,
 		"level": "7",
 		"name": "Isolamento",
+		"name_en": "Sequester",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -3475,8 +3855,10 @@
 		]
 	},
 	{
+		"id": 336,
 		"level": "8",
 		"name": "Labirinto",
+		"name_en": "Maze",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -3492,8 +3874,10 @@
 		]
 	},
 	{
+		"id": 118,
 		"level": "2",
 		"name": "Lâmina Flamejante",
+		"name_en": "Flame Blade",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -3510,8 +3894,10 @@
 		]
 	},
 	{
+		"id": 175,
 		"level": "3",
 		"name": "Lentidão",
+		"name_en": "Slow",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -3529,8 +3915,10 @@
 		]
 	},
 	{
+		"id": 64,
 		"level": "1",
 		"name": "Leque Cromático",
+		"name_en": "Color Spray",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -3547,8 +3935,10 @@
 		]
 	},
 	{
+		"id": 119,
 		"level": "2",
 		"name": "Levitação",
+		"name_en": "Levitate",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -3566,8 +3956,10 @@
 		]
 	},
 	{
+		"id": 258,
 		"level": "5",
 		"name": "Ligação Telepática de Rary",
+		"name_en": "Rary's Telepathic Bond",
 		"ritual": "s",
 		"school": {
 			"pt": "Adivinhação",
@@ -3584,8 +3976,10 @@
 		]
 	},
 	{
+		"id": 337,
 		"level": "8",
 		"name": "Limpar a Mente",
+		"name_en": "Mind Blank",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -3601,8 +3995,10 @@
 		]
 	},
 	{
+		"id": 120,
 		"level": "2",
 		"name": "Localizar Animais ou Plantas",
+		"name_en": "Locate Animals or Plants",
 		"ritual": "s",
 		"school": {
 			"pt": "Adivinhação",
@@ -3621,8 +4017,10 @@
 		]
 	},
 	{
+		"id": 218,
 		"level": "4",
 		"name": "Localizar Criatura",
+		"name_en": "Locate Creature",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -3644,8 +4042,10 @@
 		]
 	},
 	{
+		"id": 121,
 		"level": "2",
 		"name": "Localizar Objeto",
+		"name_en": "Locate Object",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -3667,8 +4067,10 @@
 		]
 	},
 	{
+		"id": 338,
 		"level": "8",
 		"name": "Loquacidade",
+		"name_en": "Glibness",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -3684,8 +4086,10 @@
 		]
 	},
 	{
+		"id": 122,
 		"level": "2",
 		"name": "Lufada de Vento",
+		"name_en": "Gust Of Wind",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -3704,8 +4108,10 @@
 		]
 	},
 	{
+		"id": 12,
 		"level": "0",
 		"name": "Luz",
+		"name_en": "Light",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -3724,8 +4130,10 @@
 		]
 	},
 	{
+		"id": 176,
 		"level": "3",
 		"name": "Luz do Dia",
+		"name_en": "Daylight",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -3744,8 +4152,10 @@
 		]
 	},
 	{
+		"id": 219,
 		"level": "4",
 		"name": "Malogro",
+		"name_en": "Blight",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -3763,8 +4173,10 @@
 		]
 	},
 	{
+		"id": 314,
 		"level": "7",
 		"name": "Mansão Magnífica de Mordenkainen",
+		"name_en": "Mordenkainen's Magnificent Mansion",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -3781,8 +4193,10 @@
 		]
 	},
 	{
+		"id": 177,
 		"level": "3",
 		"name": "Manto do Cruzado",
+		"name_en": "Crusader's Mantle",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -3798,8 +4212,10 @@
 		]
 	},
 	{
+		"id": 259,
 		"level": "5",
 		"name": "Mão de Bigby",
+		"name_en": "Bigby's Hand",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -3816,8 +4232,10 @@
 		]
 	},
 	{
+		"id": 65,
 		"level": "1",
 		"name": "Mãos Flamejantes",
+		"name_en": "Burning Hands",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -3833,8 +4251,10 @@
 		]
 	},
 	{
+		"id": 13,
 		"level": "0",
 		"name": "Mãos Mágicas",
+		"name_en": "Mage Hands",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -3852,8 +4272,10 @@
 		]
 	},
 	{
+		"id": 123,
 		"level": "2",
 		"name": "Marca da Punição",
+		"name_en": "Branding Smite",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -3869,8 +4291,10 @@
 		]
 	},
 	{
+		"id": 66,
 		"level": "1",
 		"name": "Marca do Caçador",
+		"name_en": "Hunter's Mark",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -3886,8 +4310,10 @@
 		]
 	},
 	{
+		"id": 178,
 		"level": "3",
 		"name": "Medo",
+		"name_en": "Fear",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -3907,8 +4333,10 @@
 		]
 	},
 	{
+		"id": 124,
 		"level": "2",
 		"name": "Mensageiro Animal",
+		"name_en": "Animal Messenger",
 		"ritual": "s",
 		"school": {
 			"pt": "Encantamento",
@@ -3927,8 +4355,10 @@
 		]
 	},
 	{
+		"id": 14,
 		"level": "0",
 		"name": "Mensagem",
+		"name_en": "Message",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -3946,8 +4376,10 @@
 		]
 	},
 	{
+		"id": 179,
 		"level": "3",
 		"name": "Mesclar-se Às Rochas",
+		"name_en": "Meld Into Stone",
 		"ritual": "s",
 		"school": {
 			"pt": "Transmutação",
@@ -3964,8 +4396,10 @@
 		]
 	},
 	{
+		"id": 220,
 		"level": "4",
 		"name": "Metamorfose",
+		"name_en": "Polymorph",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -3985,8 +4419,10 @@
 		]
 	},
 	{
+		"id": 351,
 		"level": "9",
 		"name": "Metamorfose Verdadeira",
+		"name_en": "True Polymorph",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -4005,8 +4441,10 @@
 		]
 	},
 	{
+		"id": 315,
 		"level": "7",
 		"name": "Miragem",
+		"name_en": "Mirage Arcane",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -4023,8 +4461,10 @@
 		]
 	},
 	{
+		"id": 260,
 		"level": "5",
 		"name": "Missão",
+		"name_en": "Geas",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -4043,8 +4483,10 @@
 		]
 	},
 	{
+		"id": 67,
 		"level": "1",
 		"name": "Mísseis Mágicos",
+		"name_en": "Magic Missile",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4060,8 +4502,10 @@
 		]
 	},
 	{
+		"id": 261,
 		"level": "5",
 		"name": "Modificar Memória",
+		"name_en": "Modify Memory",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -4078,8 +4522,10 @@
 		]
 	},
 	{
+		"id": 221,
 		"level": "4",
 		"name": "Moldar Rochas",
+		"name_en": "Stone Shape",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -4097,8 +4543,10 @@
 		]
 	},
 	{
+		"id": 180,
 		"level": "3",
 		"name": "Montaria Fantasmagórica",
+		"name_en": "Phantom Steed",
 		"ritual": "s",
 		"school": {
 			"pt": "Ilusão",
@@ -4114,8 +4562,10 @@
 		]
 	},
 	{
+		"id": 295,
 		"level": "6",
 		"name": "Mover Terra",
+		"name_en": "Move Earth",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -4134,8 +4584,10 @@
 		]
 	},
 	{
+		"id": 222,
 		"level": "4",
 		"name": "Movimentação Livre",
+		"name_en": "Freedom Of Movement",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -4154,8 +4606,10 @@
 		]
 	},
 	{
+		"id": 262,
 		"level": "5",
 		"name": "Muralha de Energia",
+		"name_en": "Wall Of Force",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4172,8 +4626,10 @@
 		]
 	},
 	{
+		"id": 296,
 		"level": "6",
 		"name": "Muralha de Espinhos",
+		"name_en": "Wall Of Thorns",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4190,8 +4646,10 @@
 		]
 	},
 	{
+		"id": 223,
 		"level": "4",
 		"name": "Muralha de Fogo",
+		"name_en": "Wall Of Fire",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4210,8 +4668,10 @@
 		]
 	},
 	{
+		"id": 297,
 		"level": "6",
 		"name": "Muralha de Gelo",
+		"name_en": "Wall Of Ice",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4228,8 +4688,10 @@
 		]
 	},
 	{
+		"id": 263,
 		"level": "5",
 		"name": "Muralha de Pedra",
+		"name_en": "Wall Of Stone",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4248,8 +4710,10 @@
 		]
 	},
 	{
+		"id": 181,
 		"level": "3",
 		"name": "Muralha de Vento",
+		"name_en": "Wind Wall",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4267,8 +4731,10 @@
 		]
 	},
 	{
+		"id": 352,
 		"level": "9",
 		"name": "Muralha Prismática",
+		"name_en": "Prismatic Wall",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -4283,8 +4749,10 @@
 		]
 	},
 	{
+		"id": 182,
 		"level": "3",
 		"name": "Nevasca",
+		"name_en": "Sleet Storm",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4303,8 +4771,10 @@
 		]
 	},
 	{
+		"id": 183,
 		"level": "3",
 		"name": "Névoa Fétida",
+		"name_en": "Stinking Cloud",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4323,8 +4793,10 @@
 		]
 	},
 	{
+		"id": 264,
 		"level": "5",
 		"name": "Névoa Mortal",
+		"name_en": "Cloudkill",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4341,8 +4813,10 @@
 		]
 	},
 	{
+		"id": 68,
 		"level": "1",
 		"name": "Névoa Obscurecente",
+		"name_en": "Fog Cloud",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4361,8 +4835,10 @@
 		]
 	},
 	{
+		"id": 125,
 		"level": "2",
 		"name": "Nublar",
+		"name_en": "Blur",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -4379,8 +4855,10 @@
 		]
 	},
 	{
+		"id": 126,
 		"level": "2",
 		"name": "Nuvem de Adagas",
+		"name_en": "Cloud of Daggers",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4400,8 +4878,10 @@
 		]
 	},
 	{
+		"id": 339,
 		"level": "8",
 		"name": "Nuvem Incendiária",
+		"name_en": "Incendiary Cloud",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4418,8 +4898,10 @@
 		]
 	},
 	{
+		"id": 224,
 		"level": "4",
 		"name": "Olho Arcano",
+		"name_en": "Arcane Eye",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -4436,8 +4918,10 @@
 		]
 	},
 	{
+		"id": 265,
 		"level": "5",
 		"name": "Onda Destrutiva",
+		"name_en": "Destructive Wave",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4452,8 +4936,10 @@
 		]
 	},
 	{
+		"id": 69,
 		"level": "1",
 		"name": "Onda Trovejante",
+		"name_en": "Thunderwave",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4471,8 +4957,10 @@
 		]
 	},
 	{
+		"id": 127,
 		"level": "2",
 		"name": "Oração Curativa",
+		"name_en": "Prayer Of Healing",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4487,8 +4975,10 @@
 		]
 	},
 	{
+		"id": 70,
 		"level": "1",
 		"name": "Orbe Cromática",
+		"name_en": "Chromatic Orb",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4505,8 +4995,10 @@
 		]
 	},
 	{
+		"id": 15,
 		"level": "0",
 		"name": "Orientação",
+		"name_en": "Guidance",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -4523,8 +5015,10 @@
 		]
 	},
 	{
+		"id": 184,
 		"level": "3",
 		"name": "Padrão Hipnótico",
+		"name_en": "Hypnotic Pattern",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -4544,8 +5038,10 @@
 		]
 	},
 	{
+		"id": 71,
 		"level": "1",
 		"name": "Palavra Curativa",
+		"name_en": "Healing Word",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4562,8 +5058,10 @@
 		]
 	},
 	{
+		"id": 185,
 		"level": "3",
 		"name": "Palavra Curativa Em Massa",
+		"name_en": "Mass Healing Word",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4578,8 +5076,10 @@
 		]
 	},
 	{
+		"id": 340,
 		"level": "8",
 		"name": "Palavra de Poder Atordoar",
+		"name_en": "Power Word Stun",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -4597,8 +5097,10 @@
 		]
 	},
 	{
+		"id": 353,
 		"level": "9",
 		"name": "Palavra de Poder Curar",
+		"name_en": "Power Word Heal",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4613,8 +5115,10 @@
 		]
 	},
 	{
+		"id": 354,
 		"level": "9",
 		"name": "Palavra de Poder Matar",
+		"name_en": "Power Word Kill",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -4632,8 +5136,10 @@
 		]
 	},
 	{
+		"id": 298,
 		"level": "6",
 		"name": "Palavra de Recordação",
+		"name_en": "Word Of Recall",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4648,8 +5154,10 @@
 		]
 	},
 	{
+		"id": 316,
 		"level": "7",
 		"name": "Palavra Divina",
+		"name_en": "Divine Word",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4664,8 +5172,10 @@
 		]
 	},
 	{
+		"id": 355,
 		"level": "9",
 		"name": "Parar o Tempo",
+		"name_en": "Time Stop",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -4681,8 +5191,10 @@
 		]
 	},
 	{
+		"id": 128,
 		"level": "2",
 		"name": "Passo Nebuloso",
+		"name_en": "Misty Step",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4699,8 +5211,10 @@
 		]
 	},
 	{
+		"id": 72,
 		"level": "1",
 		"name": "Passos Longos",
+		"name_en": "Longstrider",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -4719,8 +5233,10 @@
 		]
 	},
 	{
+		"id": 129,
 		"level": "2",
 		"name": "Passos Sem Pegadas",
+		"name_en": "Pass Without Trace",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -4738,8 +5254,10 @@
 		]
 	},
 	{
+		"id": 130,
 		"level": "2",
 		"name": "Patas de Aranha",
+		"name_en": "Spider Climb",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -4758,8 +5276,10 @@
 		]
 	},
 	{
+		"id": 131,
 		"level": "2",
 		"name": "Pele de Árvore",
+		"name_en": "Barkskin",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -4777,8 +5297,10 @@
 		]
 	},
 	{
+		"id": 225,
 		"level": "4",
 		"name": "Pele de Pedra",
+		"name_en": "Stoneskin",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -4798,8 +5320,10 @@
 		]
 	},
 	{
+		"id": 186,
 		"level": "3",
 		"name": "Pequena Cabana de Leomund",
+		"name_en": "Leomund's Tiny Hut",
 		"ritual": "s",
 		"school": {
 			"pt": "Evocação",
@@ -4817,8 +5341,10 @@
 		]
 	},
 	{
+		"id": 73,
 		"level": "1",
 		"name": "Perdição",
+		"name_en": "Bane",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -4836,8 +5362,10 @@
 		]
 	},
 	{
+		"id": 187,
 		"level": "3",
 		"name": "Piscar",
+		"name_en": "Blink",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -4853,8 +5381,10 @@
 		]
 	},
 	{
+		"id": 226,
 		"level": "4",
 		"name": "Porta Dimensional",
+		"name_en": "Dimension Door",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4872,8 +5402,10 @@
 		]
 	},
 	{
+		"id": 356,
 		"level": "9",
 		"name": "Portal",
+		"name_en": "Gate",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4892,8 +5424,10 @@
 		]
 	},
 	{
+		"id": 299,
 		"level": "6",
 		"name": "Portal Arcano",
+		"name_en": "Arcane Gate",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4911,8 +5445,10 @@
 		]
 	},
 	{
+		"id": 266,
 		"level": "5",
 		"name": "Praga",
+		"name_en": "Contagion",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -4928,8 +5464,10 @@
 		]
 	},
 	{
+		"id": 267,
 		"level": "5",
 		"name": "Praga de Insetos",
+		"name_en": "Insect Plague",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -4948,8 +5486,10 @@
 		]
 	},
 	{
+		"id": 16,
 		"level": "0",
 		"name": "Prestidigitação",
+		"name_en": "Prestidigitation",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -4967,8 +5507,10 @@
 		]
 	},
 	{
+		"id": 317,
 		"level": "7",
 		"name": "Prisão de Energia",
+		"name_en": "Forcecage",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -4986,8 +5528,10 @@
 		]
 	},
 	{
+		"id": 300,
 		"level": "6",
 		"name": "Proibição",
+		"name_en": "Forbiddance",
 		"ritual": "s",
 		"school": {
 			"pt": "Abjuração",
@@ -5004,8 +5548,10 @@
 		]
 	},
 	{
+		"id": 357,
 		"level": "9",
 		"name": "Projeção Astral",
+		"name_en": "Astral Projection",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -5023,8 +5569,10 @@
 		]
 	},
 	{
+		"id": 318,
 		"level": "7",
 		"name": "Projetar Imagem",
+		"name_en": "Project Image",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -5042,8 +5590,10 @@
 		]
 	},
 	{
+		"id": 227,
 		"level": "4",
 		"name": "Proteção contra a Morte",
+		"name_en": "Death Ward",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5059,8 +5609,10 @@
 		]
 	},
 	{
+		"id": 188,
 		"level": "3",
 		"name": "Proteção contra Energia",
+		"name_en": "Protect From Energy",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5080,8 +5632,10 @@
 		]
 	},
 	{
+		"id": 17,
 		"level": "0",
 		"name": "Proteção contra Lâminas",
+		"name_en": "Blade Ward",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5099,8 +5653,10 @@
 		]
 	},
 	{
+		"id": 74,
 		"level": "1",
 		"name": "Proteção contra o Bem e Mal",
+		"name_en": "Protection From Evil and Good",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5120,8 +5676,10 @@
 		]
 	},
 	{
+		"id": 132,
 		"level": "2",
 		"name": "Proteção contra Veneno",
+		"name_en": "Protection From Poison",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5139,8 +5697,10 @@
 		]
 	},
 	{
+		"id": 301,
 		"level": "6",
 		"name": "Proteger Fortaleza",
+		"name_en": "Guards And Wards",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5157,8 +5717,10 @@
 		]
 	},
 	{
+		"id": 75,
 		"level": "1",
 		"name": "Purificar Alimentos",
+		"name_en": "Purify Food And Drink",
 		"ritual": "s",
 		"school": {
 			"pt": "Transmutação",
@@ -5176,8 +5738,10 @@
 		]
 	},
 	{
+		"id": 76,
 		"level": "1",
 		"name": "Queda Suave",
+		"name_en": "Feather Fall",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -5196,8 +5760,10 @@
 		]
 	},
 	{
+		"id": 77,
 		"level": "1",
 		"name": "Raio Adoecente",
+		"name_en": "Ray Of Sickness",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -5213,8 +5779,10 @@
 		]
 	},
 	{
+		"id": 133,
 		"level": "2",
 		"name": "Raio Ardente",
+		"name_en": "Scorching Ray",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -5230,8 +5798,10 @@
 		]
 	},
 	{
+		"id": 78,
 		"level": "1",
 		"name": "Raio de Bruxa",
+		"name_en": "Witch Bolt",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -5250,8 +5820,10 @@
 		]
 	},
 	{
+		"id": 18,
 		"level": "0",
 		"name": "Raio de Fogo",
+		"name_en": "Fire Bolt",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -5267,8 +5839,10 @@
 		]
 	},
 	{
+		"id": 19,
 		"level": "0",
 		"name": "Raio de Gelo",
+		"name_en": "Ray Of Frost",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -5284,8 +5858,10 @@
 		]
 	},
 	{
+		"id": 134,
 		"level": "2",
 		"name": "Raio do Enfraquecimento",
+		"name_en": "Ray Of Enfeeblement",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -5302,8 +5878,10 @@
 		]
 	},
 	{
+		"id": 79,
 		"level": "1",
 		"name": "Raio Guiador",
+		"name_en": "Guiding Bolt",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -5318,8 +5896,10 @@
 		]
 	},
 	{
+		"id": 135,
 		"level": "2",
 		"name": "Raio Lunar",
+		"name_en": "Moonbeam",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -5336,8 +5916,10 @@
 		]
 	},
 	{
+		"id": 302,
 		"level": "6",
 		"name": "Raio Solar",
+		"name_en": "Sunbeam",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -5356,8 +5938,10 @@
 		]
 	},
 	{
+		"id": 20,
 		"level": "0",
 		"name": "Rajada de Veneno",
+		"name_en": "Poison Spray",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -5375,8 +5959,10 @@
 		]
 	},
 	{
+		"id": 21,
 		"level": "0",
 		"name": "Rajada Mística",
+		"name_en": "Eldritch Blast",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -5391,8 +5977,10 @@
 		]
 	},
 	{
+		"id": 319,
 		"level": "7",
 		"name": "Rajada Prismática",
+		"name_en": "Prismatic Spray",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -5408,8 +5996,10 @@
 		]
 	},
 	{
+		"id": 303,
 		"level": "6",
 		"name": "Recipiente Arcano",
+		"name_en": "Magic Jar",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -5425,8 +6015,10 @@
 		]
 	},
 	{
+		"id": 80,
 		"level": "1",
 		"name": "Recuo Acelerado",
+		"name_en": "Expeditious Retreat",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -5444,8 +6036,10 @@
 		]
 	},
 	{
+		"id": 268,
 		"level": "5",
 		"name": "Reencarnação",
+		"name_en": "Reincarnate",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -5461,8 +6055,10 @@
 		]
 	},
 	{
+		"id": 136,
 		"level": "2",
 		"name": "Reflexos",
+		"name_en": "Mirror Image",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -5479,8 +6075,10 @@
 		]
 	},
 	{
+		"id": 320,
 		"level": "7",
 		"name": "Regeneração",
+		"name_en": "Regenerate",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -5498,8 +6096,10 @@
 		]
 	},
 	{
+		"id": 189,
 		"level": "3",
 		"name": "Relâmpago",
+		"name_en": "Lightning Bolt",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -5516,8 +6116,10 @@
 		]
 	},
 	{
+		"id": 190,
 		"level": "3",
 		"name": "Remover Maldição",
+		"name_en": "Remove Curse",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5535,8 +6137,10 @@
 		]
 	},
 	{
+		"id": 137,
 		"level": "2",
 		"name": "Repouso Tranquilo",
+		"name_en": "Gentle Repose",
 		"ritual": "s",
 		"school": {
 			"pt": "Necromancia",
@@ -5554,8 +6158,10 @@
 		]
 	},
 	{
+		"id": 81,
 		"level": "1",
 		"name": "Repreensão Infernal",
+		"name_en": "Hellish Rebuke",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -5571,8 +6177,10 @@
 		]
 	},
 	{
+		"id": 22,
 		"level": "0",
 		"name": "Resistência",
+		"name_en": "Resistance",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5590,8 +6198,10 @@
 		]
 	},
 	{
+		"id": 191,
 		"level": "3",
 		"name": "Respirar Na Água",
+		"name_en": "Water Breathing",
 		"ritual": "s",
 		"school": {
 			"pt": "Transmutação",
@@ -5611,8 +6221,10 @@
 		]
 	},
 	{
+		"id": 321,
 		"level": "7",
 		"name": "Ressurreição",
+		"name_en": "Resurrection",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -5629,8 +6241,10 @@
 		]
 	},
 	{
+		"id": 358,
 		"level": "9",
 		"name": "Ressurreição Verdadeira",
+		"name_en": "True Resurrection",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -5647,8 +6261,10 @@
 		]
 	},
 	{
+		"id": 269,
 		"level": "5",
 		"name": "Restauração Maior",
+		"name_en": "Greater Restoration",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5666,8 +6282,10 @@
 		]
 	},
 	{
+		"id": 138,
 		"level": "2",
 		"name": "Restauração Menor",
+		"name_en": "Lesser Restoration",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5686,8 +6304,10 @@
 		]
 	},
 	{
+		"id": 270,
 		"level": "5",
 		"name": "Reviver Os Mortos",
+		"name_en": "Raise Dead",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -5705,8 +6325,10 @@
 		]
 	},
 	{
+		"id": 192,
 		"level": "3",
 		"name": "Revivificar",
+		"name_en": "Revivify",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -5723,8 +6345,10 @@
 		]
 	},
 	{
+		"id": 82,
 		"level": "1",
 		"name": "Riso Histérico de Tasha",
+		"name_en": "Tasha's Hideous Laughter",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -5742,8 +6366,10 @@
 		]
 	},
 	{
+		"id": 193,
 		"level": "3",
 		"name": "Rogar Maldição",
+		"name_en": "Bestow Curse",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -5761,8 +6387,10 @@
 		]
 	},
 	{
+		"id": 83,
 		"level": "1",
 		"name": "Salto",
+		"name_en": "Jump",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -5781,8 +6409,10 @@
 		]
 	},
 	{
+		"id": 84,
 		"level": "1",
 		"name": "Santuário",
+		"name_en": "Sanctuary",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5798,8 +6428,10 @@
 		]
 	},
 	{
+		"id": 228,
 		"level": "4",
 		"name": "Santuário Particular de Mordenkainen",
+		"name_en": "Mordenkainen's Private Sanctum",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5815,8 +6447,10 @@
 		]
 	},
 	{
+		"id": 85,
 		"level": "1",
 		"name": "Saraivada de Espinhos",
+		"name_en": "Hail Of Torns",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -5832,8 +6466,10 @@
 		]
 	},
 	{
+		"id": 341,
 		"level": "8",
 		"name": "Semiplano",
+		"name_en": "Demiplan",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -5849,8 +6485,10 @@
 		]
 	},
 	{
+		"id": 139,
 		"level": "2",
 		"name": "Sentido Bestial",
+		"name_en": "Beast Sense",
 		"ritual": "s",
 		"school": {
 			"pt": "Adivinhação",
@@ -5868,8 +6506,10 @@
 		]
 	},
 	{
+		"id": 86,
 		"level": "1",
 		"name": "Servo Invisível",
+		"name_en": "Unseen Servant",
 		"ritual": "s",
 		"school": {
 			"pt": "Conjuração",
@@ -5888,8 +6528,10 @@
 		]
 	},
 	{
+		"id": 359,
 		"level": "9",
 		"name": "Sexto Sentido",
+		"name_en": "Foresight",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -5908,8 +6550,10 @@
 		]
 	},
 	{
+		"id": 140,
 		"level": "2",
 		"name": "Silêncio",
+		"name_en": "Silence",
 		"ritual": "s",
 		"school": {
 			"pt": "Ilusão",
@@ -5928,8 +6572,10 @@
 		]
 	},
 	{
+		"id": 322,
 		"level": "7",
 		"name": "Símbolo",
+		"name_en": "Symbol",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5947,8 +6593,10 @@
 		]
 	},
 	{
+		"id": 271,
 		"level": "5",
 		"name": "Similaridade",
+		"name_en": "Seeming",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -5965,8 +6613,10 @@
 		]
 	},
 	{
+		"id": 323,
 		"level": "7",
 		"name": "Simulacro",
+		"name_en": "Simulacrum",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -5982,8 +6632,10 @@
 		]
 	},
 	{
+		"id": 194,
 		"level": "3",
 		"name": "Sinal de Esperança",
+		"name_en": "Beacon Of Hope",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -5999,8 +6651,10 @@
 		]
 	},
 	{
+		"id": 272,
 		"level": "5",
 		"name": "Sonho",
+		"name_en": "Dream",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -6018,8 +6672,10 @@
 		]
 	},
 	{
+		"id": 87,
 		"level": "1",
 		"name": "Sono",
+		"name_en": "Sleep",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -6037,8 +6693,10 @@
 		]
 	},
 	{
+		"id": 141,
 		"level": "2",
 		"name": "Sugestão",
+		"name_en": "Suggestion",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -6058,8 +6716,10 @@
 		]
 	},
 	{
+		"id": 304,
 		"level": "6",
 		"name": "Sugestão Em Massa",
+		"name_en": "Mass Suggestion",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -6078,8 +6738,10 @@
 		]
 	},
 	{
+		"id": 88,
 		"level": "1",
 		"name": "Sussurros Dissonantes",
+		"name_en": "Dissonant Whispers",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -6094,8 +6756,10 @@
 		]
 	},
 	{
+		"id": 23,
 		"level": "0",
 		"name": "Taumaturgia",
+		"name_en": "Thaumaturgy",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -6110,8 +6774,10 @@
 		]
 	},
 	{
+		"id": 142,
 		"level": "2",
 		"name": "Teia",
+		"name_en": "Web",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -6129,8 +6795,10 @@
 		]
 	},
 	{
+		"id": 273,
 		"level": "5",
 		"name": "Telecinésia",
+		"name_en": "Telekinesis",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -6147,8 +6815,10 @@
 		]
 	},
 	{
+		"id": 342,
 		"level": "8",
 		"name": "Telepatia",
+		"name_en": "Telepathy",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -6164,8 +6834,10 @@
 		]
 	},
 	{
+		"id": 324,
 		"level": "7",
 		"name": "Teletransporte",
+		"name_en": "Teleport",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -6182,8 +6854,10 @@
 		]
 	},
 	{
+		"id": 305,
 		"level": "6",
 		"name": "Teletransporte Por Árvores",
+		"name_en": "Transport Via Plants",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -6198,8 +6872,10 @@
 		]
 	},
 	{
+		"id": 360,
 		"level": "9",
 		"name": "Tempestade da Vingança",
+		"name_en": "Storm Of Vegeance",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -6215,8 +6891,10 @@
 		]
 	},
 	{
+		"id": 325,
 		"level": "7",
 		"name": "Tempestade de Fogo",
+		"name_en": "Fire Storm",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -6233,8 +6911,10 @@
 		]
 	},
 	{
+		"id": 229,
 		"level": "4",
 		"name": "Tempestade de Gelo",
+		"name_en": "Ice Storm",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -6252,8 +6932,10 @@
 		]
 	},
 	{
+		"id": 230,
 		"level": "4",
 		"name": "Tentáculos Negros de Evard",
+		"name_en": "Evard's Black Tentacles",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -6270,8 +6952,10 @@
 		]
 	},
 	{
+		"id": 343,
 		"level": "8",
 		"name": "Terremoto",
+		"name_en": "Earthquake",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -6290,8 +6974,10 @@
 		]
 	},
 	{
+		"id": 231,
 		"level": "4",
 		"name": "Terreno Alucinógeno",
+		"name_en": "Hallucinatory Terrain",
 		"school": {
 			"pt": "Ilusão",
 			"style": "illusion"
@@ -6310,8 +6996,10 @@
 		]
 	},
 	{
+		"id": 24,
 		"level": "0",
 		"name": "Toque Arrepiante",
+		"name_en": "Chill Touch",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -6328,8 +7016,10 @@
 		]
 	},
 	{
+		"id": 25,
 		"level": "0",
 		"name": "Toque Chocante",
+		"name_en": "Shocking Grasp",
 		"school": {
 			"pt": "Evocação",
 			"style": "evocation"
@@ -6345,8 +7035,10 @@
 		]
 	},
 	{
+		"id": 195,
 		"level": "3",
 		"name": "Toque Vampírico",
+		"name_en": "Vampiric Touch",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -6363,8 +7055,10 @@
 		]
 	},
 	{
+		"id": 143,
 		"level": "2",
 		"name": "Tranca Arcana",
+		"name_en": "Arcane Lock",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -6380,8 +7074,10 @@
 		]
 	},
 	{
+		"id": 144,
 		"level": "2",
 		"name": "Truque de Corda",
+		"name_en": "Rope Trick",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -6397,8 +7093,10 @@
 		]
 	},
 	{
+		"id": 344,
 		"level": "8",
 		"name": "Tsunami",
+		"name_en": "Tsunami",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -6414,8 +7112,10 @@
 		]
 	},
 	{
+		"id": 196,
 		"level": "3",
 		"name": "Velocidade",
+		"name_en": "Haste",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -6433,8 +7133,10 @@
 		]
 	},
 	{
+		"id": 145,
 		"level": "2",
 		"name": "Ver o Invisível",
+		"name_en": "See Invisibility",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -6452,8 +7154,10 @@
 		]
 	},
 	{
+		"id": 326,
 		"level": "7",
 		"name": "Viagem Planar",
+		"name_en": "Plane Shift",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -6473,8 +7177,10 @@
 		]
 	},
 	{
+		"id": 274,
 		"level": "5",
 		"name": "Vidência",
+		"name_en": "Scrying",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -6495,8 +7201,10 @@
 		]
 	},
 	{
+		"id": 146,
 		"level": "2",
 		"name": "Vínculo Protetor",
+		"name_en": "Warding Bond",
 		"school": {
 			"pt": "Abjuração",
 			"style": "abjuration"
@@ -6512,8 +7220,10 @@
 		]
 	},
 	{
+		"id": 232,
 		"level": "4",
 		"name": "Vinha Esmagadora",
+		"name_en": "Grasping Vine",
 		"school": {
 			"pt": "Conjuração",
 			"style": "conjuration"
@@ -6530,8 +7240,10 @@
 		]
 	},
 	{
+		"id": 306,
 		"level": "6",
 		"name": "Visão da Verdade",
+		"name_en": "True Seeing",
 		"school": {
 			"pt": "Adivinhação",
 			"style": "divination"
@@ -6551,8 +7263,10 @@
 		]
 	},
 	{
+		"id": 147,
 		"level": "2",
 		"name": "Visão No Escuro",
+		"name_en": "Darkvision",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -6571,8 +7285,10 @@
 		]
 	},
 	{
+		"id": 89,
 		"level": "1",
 		"name": "Vitalidade Falsa",
+		"name_en": "False Life",
 		"school": {
 			"pt": "Necromancia",
 			"style": "necromancy"
@@ -6589,8 +7305,10 @@
 		]
 	},
 	{
+		"id": 197,
 		"level": "3",
 		"name": "Voo",
+		"name_en": "Fly",
 		"school": {
 			"pt": "Transmutação",
 			"style": "transmutation"
@@ -6609,8 +7327,10 @@
 		]
 	},
 	{
+		"id": 26,
 		"level": "0",
 		"name": "Zombaria Viciosa",
+		"name_en": "Vicious Mockery",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"
@@ -6625,8 +7345,10 @@
 		]
 	},
 	{
+		"id": 148,
 		"level": "2",
 		"name": "Zona da Verdade",
+		"name_en": "Zone Of Truth",
 		"school": {
 			"pt": "Encantamento",
 			"style": "enchantment"

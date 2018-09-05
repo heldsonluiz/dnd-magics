@@ -5,11 +5,12 @@ const fs = require('fs');
 const spells = [];
 
 function filterList() {
-  listOfSpells.forEach((spell) => {
+  listOfSpells.forEach((spell, index) => {
     let elem = spell;
 
     if (!spell.class) {
       elem = {
+        id: index,
         ...spell,
         classes: [],
       };
