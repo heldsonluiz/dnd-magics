@@ -7,19 +7,18 @@
         <v-icon>info</v-icon>
       </v-btn>
     </v-toolbar>
-
     <v-container>
       <spell-filter :filter="filter" @filter="doFilter" />
       <spell-list :filter="filter" @filterClass="doFilterClass" />
       <v-dialog v-model="show" width="500">
         <v-card>
-          <v-card-media src="./static/img/dnd-magic.jpg" height="200px"></v-card-media>
+          <v-card-media src="~/img/dnd-magic.jpg" height="200px"></v-card-media>
           <v-card-title primary-title>
             <div>
               <h3 class="headline mb-0">Hail e Well Met!</h3>
               <div>
                 <p>Este grimório foi escrito para facilitar a jornada daqueles inclinados a
-                   desvendar a trama de magia de Dungeons
+                  desvendar a trama de magia de Dungeons
                   & Dragons.
                 </p>
               </div>
@@ -55,6 +54,7 @@ export default {
         level: '',
         school: '',
         class: '',
+        order: '',
       },
       show: false,
     };

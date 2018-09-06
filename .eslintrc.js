@@ -50,6 +50,7 @@ module.exports = {
     'no-console': process.env.NODE_ENV === 'production' ? 'error' : 'off',
     'vue/html-self-closing': 'off',
     'linebreak-style': ["error", "windows"],
-    'no-plusplus': 'off'
+    'no-plusplus': 'off',
+    'no-trailing-spaces': 'off'
   }
 }

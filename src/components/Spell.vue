@@ -1,30 +1,36 @@
 <template>
-  <v-flex xs12 sm6 md4 xl2>
+  <v-flex xs12 sm6 md4 xl2 transition="slide-y-transition">
     <v-card>
+
       <v-card-title>
         <div>
-          <div class="title" :class="`${spell.school.style}--text`" >
+          <div class="title" :class="`${spell.school.style}--text`">
+            <v-avatar class="py-3" size="16">
+              <img :src="`./static/img/schools/${spell.school.style}.png`">
+            </v-avatar>
             {{ spell.name }}
-            <span v-if="spell.ritual" class="grey--text subheading"> (ritual)</span>
+            <span v-if="spell.ritual" class="grey--text body-1"> (ritual)</span>
           </div>
           <div>
             <span class="grey--text caption">({{spell.name_en}})</span>
           </div>
-          <v-avatar size="16">
-            <img :src="`./static/img/schools/${spell.school.style}.png`">
-          </v-avatar>
-          <span class="grey--text">Lvl {{ spell.level }}
-            de {{ `${spell.school.pt.toLowerCase()}` }} </span>
         </div>
       </v-card-title>
+
       <v-card-text class="py-0 px-2">
-        <v-chip v-for="(item, id) in spell.classes"
-          small :key='id' @click="doFilterClass(item)">
+        <v-chip v-for="(item, id) in spell.classes" small :key='id' @click="doFilterClass(item)">
           <span class="Spell__class">{{`${item}`}}</span>
         </v-chip>
       </v-card-text>
+
       <v-card-text>
         <ul class="pb-3 Spell__details">
+          <li>
+            <strong>Nível: </strong>{{spell.level}}
+          </li>
+          <li>
+            <strong>Escola: </strong>{{spell.school.pt}}
+          </li>
           <li>
             <span class="font-weight-bold">Tempo De Conjuração: </span>{{spell.castingTime}}
           </li>
@@ -41,13 +47,19 @@
         </ul>
         <div class="Spells__resume" v-html="this.peep"></div>
       </v-card-text>
-      <v-card-actions>
-        <v-flex class="text-xs-center pb-3">
-          <v-btn slot="activator" color="info" @click="doshowSpell(spell)" class="caption">
-            descrição completa
-          </v-btn>
-        </v-flex>
+
+      <v-card-actions class="pa-3">
+        <v-btn outline color="info" @click="doshowSpell(spell)">
+          Descrição Completa
+        </v-btn>
+        <v-spacer></v-spacer>
+        <v-btn icon>
+          <v-icon :color="`${spell.favorite ? 'pink' : 'primary'}`"
+            @click="doFavorite(spell)">{{spell.favorite ? 'favorite':'favorite_border'}}
+          </v-icon>
+        </v-btn>
       </v-card-actions>
+
     </v-card>
   </v-flex>
 </template>
@@ -56,22 +68,30 @@
 export default {
   name: 'Spell',
   props: ['spell'],
+
   data() {
-    return {
-    };
+    return {};
   },
+
   computed: {
     peep() {
       const text = this.spell.description.replace('<p>', '').replace('</p>', '. ');
       return `${text.slice(0, 210)}...`;
     },
   },
+
   methods: {
     doFilterClass(value) {
       this.$emit('filterClass', value);
     },
+
     doshowSpell(spell) {
       this.$emit('showSpell', spell);
+    },
+
+    doFavorite(spell) {
+      this.spell.favorite = !this.spell.favorite;
+      this.$emit('favorite', spell);
     },
   },
 };
