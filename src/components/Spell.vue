@@ -90,7 +90,6 @@ export default {
     },
 
     doFavorite(spell) {
-      this.spell.favorite = !this.spell.favorite;
       this.$emit('favorite', spell);
     },
   },
