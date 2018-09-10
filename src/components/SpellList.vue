@@ -149,13 +149,13 @@ export default {
     },
 
     doFavorite(spell) {
-      const elem = this.computedSpells.find(e => e.id === spell.id)
+      const elem = this.computedSpells.find(e => e.id === spell.id);
       if (this.favorites.includes(spell)) {
         this.favorites.splice(this.favorites.indexOf(spell), 1);
       } else {
         this.favorites.push(spell);
       }
-      elem.favorite = !elem.favorite
+      elem.favorite = !elem.favorite;
     },
 
     setPage(n) {

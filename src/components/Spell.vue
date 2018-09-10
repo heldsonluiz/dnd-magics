@@ -53,9 +53,9 @@
           Descrição Completa
         </v-btn>
         <v-spacer></v-spacer>
-        <v-btn icon>
-          <v-icon :color="`${spell.favorite ? 'pink' : 'primary'}`"
-            @click="doFavorite(spell)">{{spell.favorite ? 'favorite':'favorite_border'}}
+        <v-btn icon @click="doFavorite(spell)">
+          <v-icon :color="`${spell.favorite ? 'pink' : 'primary'}`">
+            {{spell.favorite ? 'favorite':'favorite_border'}}
           </v-icon>
         </v-btn>
       </v-card-actions>
