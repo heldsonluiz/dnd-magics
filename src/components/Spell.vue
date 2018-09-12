@@ -1,5 +1,5 @@
 <template>
-  <v-flex xs12 sm6 md4 xl2 transition="slide-y-transition">
+  <v-flex xs12 sm6 xl2 transition="slide-y-transition">
     <v-card>
 
       <v-card-title>
@@ -108,40 +108,5 @@ export default {
   padding: 0;
 }
 
-@media screen and (min-width: 600px) {
-  .Spells__resume {
-    min-height: 150px;
-  }
-  .Spell__details {
-    min-height: 125px;
-  }
-}
-
-@media screen and (min-width: 680px) {
-  .Spells__resume {
-    min-height: 120px;
-  }
-  .Spell__details {
-    min-height: 110px;
-  }
-}
-
-@media screen and (min-width: 960px) {
-  .Spells__resume {
-    min-height: 150px;
-  }
-  .Spell__details {
-    min-height: 110px;
-  }
-}
-
-@media screen and (min-width: 1264px) {
-  .Spells__resume {
-    min-height: 130px;
-  }
-  .Spell__details {
-    min-height: 100px;
-  }
-}
 </style>
 

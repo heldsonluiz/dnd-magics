@@ -29,7 +29,7 @@
       </v-pagination>
     </div>
     <div class="text-xs-center">
-      <v-dialog v-model="show" width="500">
+      <v-dialog v-model="show" width="50%">
         <v-card v-touch="{left: () => swipe('left'), right: () => swipe('right')}">
           <v-card-title>
             <div>
@@ -115,14 +115,14 @@ export default {
       spell: {},
       spells: [],
       favorites: [],
-      levels: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
-      classes: ['Bárbaro', 'Bardo', 'Bruxo', 'Clérigo', 'Druida', 'Feiticeiro', 'Guerreiro', 'Ladino', 'Mago', 'Monge', 'Paladino', 'Patrulheiro'],
     };
   },
 
   methods: {
     orderList(list, order) {
       switch (order) {
+        case 'fav':
+          return this.favorites;
         case 'lasc':
           return list.sort((a, b) => a.level.localeCompare(b.level));
         case 'ldesc':
@@ -200,7 +200,7 @@ export default {
       }
 
       if (!this.isEmpty(this.filter.name)) {
-        list = this.spells.filter(item =>
+        list = list.filter(item =>
           item.name.toLowerCase().includes(this.filter.name.toLowerCase()) ||
           item.name_en.toLowerCase().includes(this.filter.name.toLowerCase()));
       }
@@ -211,9 +211,9 @@ export default {
         );
       }
 
-      if (!this.isEmpty(this.filter.level)) {
+      if (this.filter.level !== '') {
         list = list.filter(item =>
-          item.level === this.filter.level,
+          item.level === this.filter.level.toString(),
         );
       }
 
